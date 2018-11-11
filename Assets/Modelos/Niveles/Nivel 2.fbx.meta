@@ -1,0 +1,304 @@
+fileFormatVersion: 2
+guid: 408174eacf90c1c4587ef8b676b9b632
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 3x3 plano
+    100002: 3x3 plano.001
+    100004: 3x3 plano.002
+    100006: 3x3 plano.003
+    100008: 3x3 plano.004
+    100010: 3x3 plano.005
+    100012: 3x3 plano.006
+    100014: 3x3 plano.007
+    100016: 3x3 plano.008
+    100018: 3x3 plano.009
+    100020: 3x3 plano.010
+    100022: 3x3 plano.011
+    100024: 3x3 plano.012
+    100026: 3x3 plano.013
+    100028: 3x3 plano.014
+    100030: 3x3 plano.015
+    100032: 3x3 plano.016
+    100034: 3x3 plano.017
+    100036: 3x3 plano.018
+    100038: 3x3 plano.019
+    100040: 3x3 plano.020
+    100042: 3x3 plano.021
+    100044: 3x3 plano.022
+    100046: 3x3 plano.023
+    100048: 3x3 plano.024
+    100050: 4x4 plano
+    100052: //RootNode
+    100054: Pared derecha
+    100056: Pared derecha.001
+    100058: Pared derecha_L_Lib
+    100060: Pared fronta
+    100062: Pared frontal_L_Lib
+    100064: Pared izquierda
+    100066: Pared izquierda.001
+    100068: Pared izquierda_L_Lib
+    100070: Pared trasera
+    100072: Pared trasera_L_Lib
+    100074: Piso
+    100076: Piso_L_Lib
+    400000: 3x3 plano
+    400002: 3x3 plano.001
+    400004: 3x3 plano.002
+    400006: 3x3 plano.003
+    400008: 3x3 plano.004
+    400010: 3x3 plano.005
+    400012: 3x3 plano.006
+    400014: 3x3 plano.007
+    400016: 3x3 plano.008
+    400018: 3x3 plano.009
+    400020: 3x3 plano.010
+    400022: 3x3 plano.011
+    400024: 3x3 plano.012
+    400026: 3x3 plano.013
+    400028: 3x3 plano.014
+    400030: 3x3 plano.015
+    400032: 3x3 plano.016
+    400034: 3x3 plano.017
+    400036: 3x3 plano.018
+    400038: 3x3 plano.019
+    400040: 3x3 plano.020
+    400042: 3x3 plano.021
+    400044: 3x3 plano.022
+    400046: 3x3 plano.023
+    400048: 3x3 plano.024
+    400050: 4x4 plano
+    400052: //RootNode
+    400054: Pared derecha
+    400056: Pared derecha.001
+    400058: Pared derecha_L_Lib
+    400060: Pared fronta
+    400062: Pared frontal_L_Lib
+    400064: Pared izquierda
+    400066: Pared izquierda.001
+    400068: Pared izquierda_L_Lib
+    400070: Pared trasera
+    400072: Pared trasera_L_Lib
+    400074: Piso
+    400076: Piso_L_Lib
+    2100000: Material
+    2100002: Material.005
+    2100004: Material.006
+    2100006: Material.007
+    2100008: Material.001
+    2300000: 3x3 plano
+    2300002: 3x3 plano.001
+    2300004: 3x3 plano.002
+    2300006: 3x3 plano.003
+    2300008: 3x3 plano.004
+    2300010: 3x3 plano.005
+    2300012: 3x3 plano.006
+    2300014: 3x3 plano.007
+    2300016: 3x3 plano.008
+    2300018: 3x3 plano.009
+    2300020: 3x3 plano.010
+    2300022: 3x3 plano.011
+    2300024: 3x3 plano.012
+    2300026: 3x3 plano.013
+    2300028: 3x3 plano.014
+    2300030: 3x3 plano.015
+    2300032: 3x3 plano.016
+    2300034: 3x3 plano.017
+    2300036: 3x3 plano.018
+    2300038: 3x3 plano.019
+    2300040: 3x3 plano.020
+    2300042: 3x3 plano.021
+    2300044: 3x3 plano.022
+    2300046: 3x3 plano.023
+    2300048: 3x3 plano.024
+    2300050: 4x4 plano
+    2300052: Pared derecha
+    2300054: Pared derecha.001
+    2300056: Pared fronta
+    2300058: Pared izquierda
+    2300060: Pared izquierda.001
+    2300062: Pared trasera
+    2300064: Piso
+    3300000: 3x3 plano
+    3300002: 3x3 plano.001
+    3300004: 3x3 plano.002
+    3300006: 3x3 plano.003
+    3300008: 3x3 plano.004
+    3300010: 3x3 plano.005
+    3300012: 3x3 plano.006
+    3300014: 3x3 plano.007
+    3300016: 3x3 plano.008
+    3300018: 3x3 plano.009
+    3300020: 3x3 plano.010
+    3300022: 3x3 plano.011
+    3300024: 3x3 plano.012
+    3300026: 3x3 plano.013
+    3300028: 3x3 plano.014
+    3300030: 3x3 plano.015
+    3300032: 3x3 plano.016
+    3300034: 3x3 plano.017
+    3300036: 3x3 plano.018
+    3300038: 3x3 plano.019
+    3300040: 3x3 plano.020
+    3300042: 3x3 plano.021
+    3300044: 3x3 plano.022
+    3300046: 3x3 plano.023
+    3300048: 3x3 plano.024
+    3300050: 4x4 plano
+    3300052: Pared derecha
+    3300054: Pared derecha.001
+    3300056: Pared fronta
+    3300058: Pared izquierda
+    3300060: Pared izquierda.001
+    3300062: Pared trasera
+    3300064: Piso
+    4300000: 3x3 plano.024
+    4300002: 3x3 plano.023
+    4300004: 3x3 plano.022
+    4300006: 3x3 plano.021
+    4300008: 3x3 plano.020
+    4300010: 3x3 plano.019
+    4300012: 3x3 plano.018
+    4300014: 3x3 plano.017
+    4300016: 3x3 plano.016
+    4300018: 3x3 plano.015
+    4300020: 3x3 plano.014
+    4300022: 3x3 plano.013
+    4300024: 3x3 plano.012
+    4300026: 3x3 plano.005
+    4300028: 3x3 plano.011
+    4300030: 3x3 plano.010
+    4300032: 3x3 plano.009
+    4300034: 3x3 plano.008
+    4300036: 3x3 plano.007
+    4300038: 3x3 plano.006
+    4300040: 3x3 plano.004
+    4300042: 3x3 plano.003
+    4300044: 3x3 plano.002
+    4300046: 3x3 plano.001
+    4300048: Pared izquierda
+    4300050: Pared derecha
+    4300052: Pared fronta
+    4300054: Pared trasera
+    4300056: Pared derecha.001
+    4300058: Pared izquierda.001
+    4300060: Piso
+    4300062: 3x3 plano
+    4300064: 4x4 plano
+    6400000: 3x3 plano
+    6400002: 3x3 plano.001
+    6400004: 3x3 plano.002
+    6400006: 3x3 plano.003
+    6400008: 3x3 plano.004
+    6400010: 3x3 plano.005
+    6400012: 3x3 plano.006
+    6400014: 3x3 plano.007
+    6400016: 3x3 plano.008
+    6400018: 3x3 plano.009
+    6400020: 3x3 plano.010
+    6400022: 3x3 plano.011
+    6400024: 3x3 plano.012
+    6400026: 3x3 plano.013
+    6400028: 3x3 plano.014
+    6400030: 3x3 plano.015
+    6400032: 3x3 plano.016
+    6400034: 3x3 plano.017
+    6400036: 3x3 plano.018
+    6400038: 3x3 plano.019
+    6400040: 3x3 plano.020
+    6400042: 3x3 plano.021
+    6400044: 3x3 plano.022
+    6400046: 3x3 plano.023
+    6400048: 3x3 plano.024
+    6400050: 4x4 plano
+    6400052: Pared derecha
+    6400054: Pared derecha.001
+    6400056: Pared fronta
+    6400058: Pared izquierda
+    6400060: Pared izquierda.001
+    6400062: Pared trasera
+    6400064: Piso
+    7400000: Piso|PisoAction.001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
