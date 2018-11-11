@@ -17,9 +17,9 @@ ModelImporter:
     3300002: Marco
     4300000: Boton
     4300002: Marco
-    7400000: Boton|Cube.000Action
-    7400002: Boton|Cube.001Action.001
-    7400004: Boton|Cube.001Action.002
+    6400000: Boton
+    6400002: Marco
+    7400000: Scene
     9500000: //RootNode
     11100000: //RootNode
   externalObjects: {}
@@ -51,11 +51,11 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Boton|Cube.000Action
-      takeName: Boton|Cube.000Action
-      firstFrame: 0
-      lastFrame: 9
-      wrapMode: 1
+      name: Scene
+      takeName: Scene
+      firstFrame: 1
+      lastFrame: 10
+      wrapMode: 2
       orientationOffsetY: 0
       level: 0
       cycleOffset: 0
@@ -83,7 +83,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1

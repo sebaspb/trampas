@@ -32,16 +32,11 @@ ModelImporter:
     100052: //RootNode
     100054: Pared derecha
     100056: Pared derecha.001
-    100058: Pared derecha_L_Lib
-    100060: Pared fronta
-    100062: Pared frontal_L_Lib
-    100064: Pared izquierda
-    100066: Pared izquierda.001
-    100068: Pared izquierda_L_Lib
-    100070: Pared trasera
-    100072: Pared trasera_L_Lib
-    100074: Piso
-    100076: Piso_L_Lib
+    100058: Pared fronta
+    100060: Pared izquierda
+    100062: Pared izquierda.001
+    100064: Pared trasera
+    100066: Piso
     400000: 3x3 plano
     400002: 3x3 plano.001
     400004: 3x3 plano.002
@@ -71,16 +66,11 @@ ModelImporter:
     400052: //RootNode
     400054: Pared derecha
     400056: Pared derecha.001
-    400058: Pared derecha_L_Lib
-    400060: Pared fronta
-    400062: Pared frontal_L_Lib
-    400064: Pared izquierda
-    400066: Pared izquierda.001
-    400068: Pared izquierda_L_Lib
-    400070: Pared trasera
-    400072: Pared trasera_L_Lib
-    400074: Piso
-    400076: Piso_L_Lib
+    400058: Pared fronta
+    400060: Pared izquierda
+    400062: Pared izquierda.001
+    400064: Pared trasera
+    400066: Piso
     2100000: Material
     2100002: Material.005
     2100004: Material.006
@@ -271,7 +261,7 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 0.01
+    previousCalculatedGlobalScale: 1
     hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
