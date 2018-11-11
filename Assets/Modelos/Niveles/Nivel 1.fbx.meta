@@ -1,40 +1,43 @@
 fileFormatVersion: 2
-guid: 04052ceb598cab247a35afd54b9fd3c5
+guid: e595f6f9f9b632f4195e6b32abb656df
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
-    100002: Pared_derecha
-    100004: Pared_frontal
-    100006: Pared_izquierda
-    100008: Pared_trasera
+    100002: Pared derecha
+    100004: Pared frontal
+    100006: Pared izquierda
+    100008: Pared trasera
     100010: Piso
     400000: //RootNode
-    400002: Pared_derecha
-    400004: Pared_frontal
-    400006: Pared_izquierda
-    400008: Pared_trasera
+    400002: Pared derecha
+    400004: Pared frontal
+    400006: Pared izquierda
+    400008: Pared trasera
     400010: Piso
-    2100000: Material_007
-    2100002: Material_005
-    2100004: Material_006
-    2300000: Pared_derecha
-    2300002: Pared_frontal
-    2300004: Pared_izquierda
-    2300006: Pared_trasera
+    2100000: Material.007
+    2100002: Material.005
+    2100004: Material.006
+    2300000: Pared derecha
+    2300002: Pared frontal
+    2300004: Pared izquierda
+    2300006: Pared trasera
     2300008: Piso
-    3300000: Pared_derecha
-    3300002: Pared_frontal
-    3300004: Pared_izquierda
-    3300006: Pared_trasera
+    3300000: Pared derecha
+    3300002: Pared frontal
+    3300004: Pared izquierda
+    3300006: Pared trasera
     3300008: Piso
-    4300000: Pared_frontal
-    4300002: Pared_derecha
-    4300004: Pared_izquierda
+    4300000: Pared frontal
+    4300002: Pared derecha
+    4300004: Pared izquierda
     4300006: Piso
-    4300008: Pared_trasera
-    7400000: Default Take
-    9500000: //RootNode
+    4300008: Pared trasera
+    6400000: Pared derecha
+    6400002: Pared frontal
+    6400004: Pared izquierda
+    6400006: Pared trasera
+    6400008: Piso
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -68,7 +71,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
@@ -87,7 +90,7 @@ ModelImporter:
     secondaryUVPackMargin: 4
     useFileScale: 1
     previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -111,7 +114,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 0
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
