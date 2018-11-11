@@ -1,24 +1,23 @@
 fileFormatVersion: 2
-guid: 9163dc8232c80ee46bb294dc14ec7735
+guid: 03f11c46fddadba47b4f224232d46a7d
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: Boton
-    100002: //RootNode
-    100004: Marco
-    400000: Boton
-    400002: //RootNode
-    400004: Marco
-    2100000: Blanco
-    2100002: Negro
-    2300000: Boton
-    2300002: Marco
-    3300000: Boton
-    3300002: Marco
-    4300000: Boton
-    4300002: Marco
-    6400000: Boton
-    6400002: Marco
+    100000: 4x4 a
+    100002: 4x4 a.001
+    100004: //RootNode
+    400000: 4x4 a
+    400002: 4x4 a.001
+    400004: //RootNode
+    2100000: No Name
+    2300000: 4x4 a
+    2300002: 4x4 a.001
+    3300000: 4x4 a
+    3300002: 4x4 a.001
+    4300000: 4x4 a.001
+    4300002: 4x4 a
+    6400000: 4x4 a
+    6400002: 4x4 a.001
     7400000: Scene
     9500000: //RootNode
     11100000: //RootNode
@@ -54,7 +53,7 @@ ModelImporter:
       name: Scene
       takeName: Scene
       firstFrame: 1
-      lastFrame: 10
+      lastFrame: 11
       wrapMode: 2
       orientationOffsetY: 0
       level: 0
@@ -101,7 +100,7 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 0.01
+    previousCalculatedGlobalScale: 1
     hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
@@ -123,7 +122,7 @@ ModelImporter:
     feetSpacing: 0
     rootMotionBoneName: 
     hasTranslationDoF: 0
-    hasExtraRoot: 0
+    hasExtraRoot: 1
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   animationType: 1

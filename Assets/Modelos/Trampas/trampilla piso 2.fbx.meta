@@ -1,24 +1,29 @@
 fileFormatVersion: 2
-guid: 9163dc8232c80ee46bb294dc14ec7735
+guid: 317ecb43b6e8e0141af0ebe191d5c416
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: Boton
-    100002: //RootNode
-    100004: Marco
-    400000: Boton
-    400002: //RootNode
-    400004: Marco
-    2100000: Blanco
-    2100002: Negro
-    2300000: Boton
-    2300002: Marco
-    3300000: Boton
-    3300002: Marco
-    4300000: Boton
-    4300002: Marco
-    6400000: Boton
-    6400002: Marco
+    100000: 4x4 a
+    100002: 4x4 a.001
+    100004: 6x6 a
+    100006: //RootNode
+    400000: 4x4 a
+    400002: 4x4 a.001
+    400004: 6x6 a
+    400006: //RootNode
+    2100000: No Name
+    2300000: 4x4 a
+    2300002: 4x4 a.001
+    2300004: 6x6 a
+    3300000: 4x4 a
+    3300002: 4x4 a.001
+    3300004: 6x6 a
+    4300000: 4x4 a.001
+    4300002: 4x4 a
+    4300004: 6x6 a
+    6400000: 4x4 a
+    6400002: 4x4 a.001
+    6400004: 6x6 a
     7400000: Scene
     9500000: //RootNode
     11100000: //RootNode
@@ -49,35 +54,7 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties: []
-    clipAnimations:
-    - serializedVersion: 16
-      name: Scene
-      takeName: Scene
-      firstFrame: 1
-      lastFrame: 10
-      wrapMode: 2
-      orientationOffsetY: 0
-      level: 0
-      cycleOffset: 0
-      loop: 0
-      hasAdditiveReferencePose: 0
-      loopTime: 0
-      loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
-      keepOriginalPositionY: 1
-      keepOriginalPositionXZ: 0
-      heightFromFeet: 0
-      mirror: 0
-      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
-      curves: []
-      events: []
-      transformMask: []
-      maskType: 3
-      maskSource: {instanceID: 0}
-      additiveReferencePoseFrame: 0
+    clipAnimations: []
     isReadable: 1
   meshes:
     lODScreenPercentages: []
@@ -101,7 +78,7 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 0.01
+    previousCalculatedGlobalScale: 1
     hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
@@ -123,7 +100,7 @@ ModelImporter:
     feetSpacing: 0
     rootMotionBoneName: 
     hasTranslationDoF: 0
-    hasExtraRoot: 0
+    hasExtraRoot: 1
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   animationType: 1
