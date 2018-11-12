@@ -68,6 +68,13 @@ ModelImporter:
     6400002: Cube.001
     6400004: Cylinder
     6400006: Cylinder.003
+    6400008: Cube.002
+    6400010: Cube.003
+    6400012: Cube.004
+    6400014: Cube.005
+    6400016: Cylinder.001
+    6400018: Cylinder.002
+    6400020: Cylinder.004
     7400000: Scene
     9500000: //RootNode
     11100000: //RootNode
@@ -103,7 +110,7 @@ ModelImporter:
       name: Scene
       takeName: Scene
       firstFrame: 1
-      lastFrame: 39
+      lastFrame: 60
       wrapMode: 2
       orientationOffsetY: 0
       level: 0
