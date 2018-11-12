@@ -37,6 +37,11 @@ ModelImporter:
     100062: Pared izquierda.001
     100064: Pared trasera
     100066: Piso
+    100068: Pared derecha_L_Lib.001
+    100070: Pared frontal_L_Lib.001
+    100072: Pared izquierda_L_Lib.001
+    100074: Pared trasera_L_Lib.001
+    100076: Piso_L_Lib.001
     400000: 3x3 plano
     400002: 3x3 plano.001
     400004: 3x3 plano.002
@@ -71,6 +76,11 @@ ModelImporter:
     400062: Pared izquierda.001
     400064: Pared trasera
     400066: Piso
+    400068: Pared derecha_L_Lib.001
+    400070: Pared frontal_L_Lib.001
+    400072: Pared izquierda_L_Lib.001
+    400074: Pared trasera_L_Lib.001
+    400076: Piso_L_Lib.001
     2100000: Material
     2100002: Material.005
     2100004: Material.006
@@ -109,6 +119,11 @@ ModelImporter:
     2300060: Pared izquierda.001
     2300062: Pared trasera
     2300064: Piso
+    2300066: Pared derecha_L_Lib.001
+    2300068: Pared frontal_L_Lib.001
+    2300070: Pared izquierda_L_Lib.001
+    2300072: Pared trasera_L_Lib.001
+    2300074: Piso_L_Lib.001
     3300000: 3x3 plano
     3300002: 3x3 plano.001
     3300004: 3x3 plano.002
@@ -142,6 +157,11 @@ ModelImporter:
     3300060: Pared izquierda.001
     3300062: Pared trasera
     3300064: Piso
+    3300066: Pared derecha_L_Lib.001
+    3300068: Pared frontal_L_Lib.001
+    3300070: Pared izquierda_L_Lib.001
+    3300072: Pared trasera_L_Lib.001
+    3300074: Piso_L_Lib.001
     4300000: 3x3 plano.024
     4300002: 3x3 plano.023
     4300004: 3x3 plano.022
@@ -175,6 +195,11 @@ ModelImporter:
     4300060: Piso
     4300062: 3x3 plano
     4300064: 4x4 plano
+    4300066: Pared derecha_L_Lib.001
+    4300068: Pared frontal_L_Lib.001
+    4300070: Pared izquierda_L_Lib.001
+    4300072: Pared trasera_L_Lib.001
+    4300074: Piso_L_Lib.001
     6400000: 3x3 plano
     6400002: 3x3 plano.001
     6400004: 3x3 plano.002
@@ -208,6 +233,11 @@ ModelImporter:
     6400060: Pared izquierda.001
     6400062: Pared trasera
     6400064: Piso
+    6400066: Pared derecha_L_Lib.001
+    6400068: Pared frontal_L_Lib.001
+    6400070: Pared izquierda_L_Lib.001
+    6400072: Pared trasera_L_Lib.001
+    6400074: Piso_L_Lib.001
     7400000: Piso|PisoAction.001
     9500000: //RootNode
   externalObjects: {}
