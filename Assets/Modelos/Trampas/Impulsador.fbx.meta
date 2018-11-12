@@ -1,26 +1,56 @@
 fileFormatVersion: 2
-guid: 9163dc8232c80ee46bb294dc14ec7735
+guid: 7fdc0da3b26aa454bb7e4a9cb2173e21
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: Boton
-    100002: //RootNode
-    100004: Marco
-    400000: Boton
-    400002: //RootNode
-    400004: Marco
-    2100000: Blanco
-    2100002: Negro
-    2300000: Boton
-    2300002: Marco
-    3300000: Boton
-    3300002: Marco
-    4300000: Boton
-    4300002: Marco
-    6400000: Boton
-    6400002: Marco
+    100000: 3x3 plano
+    100002: 3x3 plano.001
+    100004: 3x3 plano.002
+    100006: Camera
+    100008: //RootNode
+    100010: Lamp
+    100012: Piston grande
+    100014: piston mediano
+    100016: "piston peque\xF1o"
+    400000: 3x3 plano
+    400002: 3x3 plano.001
+    400004: 3x3 plano.002
+    400006: Camera
+    400008: //RootNode
+    400010: Lamp
+    400012: Piston grande
+    400014: piston mediano
+    400016: "piston peque\xF1o"
+    2000000: Camera
+    2100000: Material
+    2100002: No Name
+    2300000: 3x3 plano
+    2300002: 3x3 plano.001
+    2300004: 3x3 plano.002
+    2300006: Piston grande
+    2300008: piston mediano
+    2300010: "piston peque\xF1o"
+    3300000: 3x3 plano
+    3300002: 3x3 plano.001
+    3300004: 3x3 plano.002
+    3300006: Piston grande
+    3300008: piston mediano
+    3300010: "piston peque\xF1o"
+    4300000: 3x3 plano.002
+    4300002: 3x3 plano.001
+    4300004: "piston peque\xF1o"
+    4300006: Piston grande
+    4300008: piston mediano
+    4300010: 3x3 plano
+    6400000: 3x3 plano
+    6400002: 3x3 plano.001
+    6400004: 3x3 plano.002
+    6400006: Piston grande
+    6400008: piston mediano
+    6400010: "piston peque\xF1o"
     7400000: Scene
     9500000: //RootNode
+    10800000: Lamp
     11100000: //RootNode
   externalObjects: {}
   materials:
@@ -54,7 +84,7 @@ ModelImporter:
       name: Scene
       takeName: Scene
       firstFrame: 1
-      lastFrame: 10
+      lastFrame: 20
       wrapMode: 2
       orientationOffsetY: 0
       level: 0
@@ -123,7 +153,7 @@ ModelImporter:
     feetSpacing: 0
     rootMotionBoneName: 
     hasTranslationDoF: 0
-    hasExtraRoot: 0
+    hasExtraRoot: 1
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   animationType: 1
