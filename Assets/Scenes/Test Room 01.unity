@@ -162,6 +162,11 @@ Prefab:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 609178313}
+    - target: {fileID: 111624832755676268, guid: 8f75e1ae21f666748b62c75c14ea4009,
+        type: 2}
+      propertyPath: m_Animations.Array.data[0]
+      value: 
+      objectReference: {fileID: 7400002, guid: 9163dc8232c80ee46bb294dc14ec7735, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8f75e1ae21f666748b62c75c14ea4009, type: 2}
   m_IsPrefabAsset: 0
@@ -320,22 +325,6 @@ Mesh:
   m_MeshMetrics[0]: 1
   m_MeshMetrics[1]: 1
   m_MeshOptimized: 0
---- !u!1 &648734494 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1828886031749482, guid: 8f75e1ae21f666748b62c75c14ea4009,
-    type: 2}
-  m_PrefabInternal: {fileID: 43407193}
---- !u!114 &648734501
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 648734494}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4a318d4bea0d4314f9fd663c433e5ab8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &915483225
 GameObject:
   m_ObjectHideFlags: 0

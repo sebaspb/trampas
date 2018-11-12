@@ -20,6 +20,7 @@ ModelImporter:
     6400000: Boton
     6400002: Marco
     7400000: Scene
+    7400002: PresionarBotonPared
     9500000: //RootNode
     11100000: //RootNode
   externalObjects: {}
@@ -51,11 +52,11 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Scene
+      name: PresionarBotonPared
       takeName: Scene
       firstFrame: 1
       lastFrame: 10
-      wrapMode: 2
+      wrapMode: 0
       orientationOffsetY: 0
       level: 0
       cycleOffset: 0
