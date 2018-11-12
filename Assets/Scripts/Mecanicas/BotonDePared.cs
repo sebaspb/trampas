@@ -28,11 +28,11 @@ public class BotonDePared : MonoBehaviour {
 
 		if(Input.GetKeyDown(KeyCode.E) && inTrigger)
 		{
-			if(!Animacion.IsPlaying("PresionarBotonPared"))
+			if(!Animacion.IsPlaying("Accionar Boton"))
 			{
 
 				Debug.Log("Botón presionado");
-				Animacion.Play("PresionarBotonPared");
+				Animacion.Play("Accionar Boton");
 
 			}
 			
