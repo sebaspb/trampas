@@ -9,11 +9,11 @@ public class Trampilla1 : MonoBehaviour {
 	/// después la animación cerrar.
 	/// </summary>
 	
-	bool inTrigger;
-
 	bool EstaAbierta = false;
 
 	public GameObject FBX;
+
+	public GameObject Trigger;
 
 	Animation Animacion;
 	void Start () 
@@ -28,7 +28,7 @@ public class Trampilla1 : MonoBehaviour {
 	void Update () 
 	{
 
-		if(inTrigger)
+		if(Trigger.GetComponent<RevisionTrigger>().EstaEnTrigger)
 		{
 			if(!EstaAbierta)
 			{
@@ -44,37 +44,12 @@ public class Trampilla1 : MonoBehaviour {
 		
 	}
 
-	private void OnTriggerEnter(Collider other)
-	{
-
-		if(other.CompareTag("Player"))
-		{
-
-			
-			inTrigger = true;
-			Debug.Log("Ha entrado al trigger");
-
-		}
-		
-	}
-
-	private void OnTriggerExit(Collider other)
-	{
-
-		if(other.CompareTag("Player"))
-		{
-
-			inTrigger = false;
-
-		}
-		
-	}
-
 	IEnumerator CerrarTrampa(float time)
 	{
 
 		yield return new WaitForSeconds(time);
 		Animacion.Play("CerrarTrampilla1");
+		EstaAbierta = false;
 
 	}
 }
