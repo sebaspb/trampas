@@ -14,9 +14,7 @@ public class BotonDePared : MonoBehaviour {
 
 	Animation Animacion;
 
-	bool Reproduciendo;
-
-	
+		
 	void Start () 
 	{
 
