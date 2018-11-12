@@ -12,6 +12,8 @@ public class BotonDePared : MonoBehaviour {
 
 	public GameObject FBX;
 
+	public GameObject Trigger;
+
 	Animation Animacion;
 
 		
@@ -26,7 +28,7 @@ public class BotonDePared : MonoBehaviour {
 	void Update ()
 	{
 
-		if(Input.GetKeyDown(KeyCode.E) && inTrigger)
+		if(Input.GetKeyDown(KeyCode.E) && Trigger.GetComponent<RevisionTrigger>().EstaEnTrigger)
 		{
 			if(!Animacion.IsPlaying("Accionar Boton"))
 			{
@@ -49,29 +51,4 @@ public class BotonDePared : MonoBehaviour {
 		
 	}
 
-	private void OnTriggerEnter(Collider other)
-	{
-
-		if(other.CompareTag("Player"))
-		{
-
-			
-			inTrigger = true;
-			Debug.Log("Ha entrado al trigger");
-
-		}
-		
-	}
-
-	private void OnTriggerExit(Collider other)
-	{
-
-		if(other.CompareTag("Player"))
-		{
-
-			inTrigger = false;
-
-		}
-		
-	}
 }
