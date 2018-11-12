@@ -11,7 +11,7 @@ public class BotonDePared1 : MonoBehaviour {
 	bool inTrigger;
     public GameObject FBX;
     Animation  Animator;
-    bool reproduciendo = false;
+  
 	
 	void Start () 
 	{
