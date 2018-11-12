@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEditor.Animations;
 
 public class BotonDePared : MonoBehaviour {
 
@@ -8,9 +9,18 @@ public class BotonDePared : MonoBehaviour {
 	/// 
 	/// </summary>
 	bool inTrigger;
+
+	public GameObject FBX;
+
+	Animation Animacion;
+
+	bool Reproduciendo;
+
 	
 	void Start () 
 	{
+
+		Animacion = FBX.GetComponent<Animation>();
 		
 	}
 	
@@ -20,10 +30,24 @@ public class BotonDePared : MonoBehaviour {
 
 		if(Input.GetKeyDown(KeyCode.E) && inTrigger)
 		{
+			if(!Animacion.IsPlaying("PresionarBotonPared"))
+			{
 
-			Debug.Log("Botón presionado");
+				Debug.Log("Botón presionado");
+				Animacion.Play("PresionarBotonPared");
+
+			}
+			
+			else
+			{
+
+				Debug.Log("Botón en uso");
+
+			}
+			
 
 		}
+
 		
 	}
 
