@@ -209,7 +209,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1129816932203594}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.54, y: 6.38, z: 5.6}
+  m_LocalPosition: {x: 3.07, y: 5.14, z: 2.71}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4338932581528270}
@@ -271,7 +271,7 @@ MeshRenderer:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1646621165903636}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 2
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
@@ -467,7 +467,7 @@ Animation:
   - {fileID: 7400000, guid: 03f11c46fddadba47b4f224232d46a7d, type: 3}
   - {fileID: 7400002, guid: 03f11c46fddadba47b4f224232d46a7d, type: 3}
   m_WrapMode: 0
-  m_PlayAutomatically: 1
+  m_PlayAutomatically: 0
   m_AnimatePhysics: 0
   m_CullingType: 0
 --- !u!114 &114150310767097192
@@ -784,5 +784,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d8eff8d3bec4d8d448b9c1afb7a95fba, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Trigger: {fileID: 1646621165903636}
   FBX: {fileID: 1067197372096226}
+  Trigger: {fileID: 1646621165903636}
