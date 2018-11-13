@@ -125,8 +125,8 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1953296069583598}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.1954613, y: 0.9976163, z: -1.2596345}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: -1.7895, y: 0.929, z: -1.5883}
+  m_LocalScale: {x: 0.5114732, y: 0.91598, z: 0.49516}
   m_Children: []
   m_Father: {fileID: 4151451663770016}
   m_RootOrder: 0
@@ -138,7 +138,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1942485084158302}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 36.87546, y: 4.072384, z: 4.3196344}
+  m_LocalPosition: {x: 40.18, y: 2.97, z: 4.6}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4112003607297176}
@@ -741,9 +741,17 @@ MonoBehaviour:
     angleError: 8
     areaError: 15
   dontDestroyMeshOnDelete: 0
-  m_selectedFaces: 
-  m_SelectedEdges: []
-  m_selectedTriangles: 
+  m_selectedFaces: 00000000
+  m_SelectedEdges:
+  - x: 0
+    y: 0
+  - x: 0
+    y: 0
+  - x: 0
+    y: 0
+  - x: 0
+    y: 0
+  m_selectedTriangles: 00000000000000000000000000000000
 --- !u!114 &114775290436757678
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -757,4 +765,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   FBX: {fileID: 1964355259345130}
   Trigger: {fileID: 1953296069583598}
-  time: 0
+  tiempo: 1.5
