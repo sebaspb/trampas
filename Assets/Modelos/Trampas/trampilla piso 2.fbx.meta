@@ -24,7 +24,7 @@ ModelImporter:
     6400000: 4x4 a
     6400002: 4x4 a.001
     6400004: 6x6 a
-    7400000: Abrir Trampilla 2
+    7400000: AbrirTrampilla
     7400002: 4x4 a.001Action.002
     7400004: 4x4 a.001Action.003
     7400006: 4x4 aAction.002
@@ -41,7 +41,7 @@ ModelImporter:
     7400028: 6x6 a|4x4 a.001Action.002
     7400030: 6x6 a|4x4 aAction.000
     7400032: 6x6 a|4x4 aAction.002
-    7400034: Cerrar trampilla 2
+    7400034: CerrarTrampilla
     9500000: //RootNode
     11100000: //RootNode
   externalObjects: {}
@@ -73,7 +73,7 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Abrir Trampilla 2
+      name: AbrirTrampilla
       takeName: Scene
       firstFrame: 0
       lastFrame: 18
@@ -101,7 +101,7 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Cerrar trampilla 2
+      name: CerrarTrampilla
       takeName: Scene
       firstFrame: 18
       lastFrame: 35
