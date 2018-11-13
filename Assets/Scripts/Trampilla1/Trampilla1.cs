@@ -15,6 +15,8 @@ public class Trampilla1 : MonoBehaviour {
 
 	public GameObject Trigger;
 
+	public float tiempo;
+
 	Animation Animacion;
 	void Start () 
 	{
@@ -33,9 +35,9 @@ public class Trampilla1 : MonoBehaviour {
 			if(!EstaAbierta)
 			{
 
-				Animacion.Play("AbrirTrampilla1");
+				Animacion.Play("AbrirTrampilla");
 				EstaAbierta = true;
-				StartCoroutine(CerrarTrampa(1f));
+				StartCoroutine(CerrarTrampa(tiempo));
 
 			}
 
@@ -48,7 +50,7 @@ public class Trampilla1 : MonoBehaviour {
 	{
 
 		yield return new WaitForSeconds(time);
-		Animacion.Play("CerrarTrampilla1");
+		Animacion.Play("CerrarTrampilla");
 		EstaAbierta = false;
 
 	}

@@ -26,8 +26,8 @@ ModelImporter:
     6400000: 4x4 a
     6400002: 4x4 a.001
     6400004: 6x6 a
-    7400000: AbrirTrampilla1
-    7400002: CerrarTrampilla1
+    7400000: AbrirTrampilla
+    7400002: CerrarTrampilla
     9500000: //RootNode
     11100000: //RootNode
   externalObjects: {}
@@ -59,7 +59,7 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: AbrirTrampilla1
+      name: AbrirTrampilla
       takeName: Scene
       firstFrame: -0
       lastFrame: 5
@@ -87,7 +87,7 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: CerrarTrampilla1
+      name: CerrarTrampilla
       takeName: Scene
       firstFrame: 5
       lastFrame: 11
