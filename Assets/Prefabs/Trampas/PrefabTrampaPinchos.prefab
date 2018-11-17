@@ -807,6 +807,7 @@ MonoBehaviour:
   FBX: {fileID: 1960550371645356}
   Trigger: {fileID: 1321971957303494}
   tiempo: 2.5
+  "Da\xF1o": 0
 --- !u!114 &114392695052503720
 MonoBehaviour:
   m_ObjectHideFlags: 1
