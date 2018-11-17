@@ -655,6 +655,7 @@ MonoBehaviour:
   FBX: {fileID: 1031019282043654}
   Trigger: {fileID: 1969868787231014}
   tiempo: 1.5
+  "Da\xF1o": 0
 --- !u!114 &114547423997364488
 MonoBehaviour:
   m_ObjectHideFlags: 1
