@@ -378,6 +378,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   FBX: {fileID: 1532537974991910}
   Trigger: {fileID: 1320484829219612}
+  nivel: {fileID: 0}
+  animacion: 
 --- !u!114 &114499671909296442
 MonoBehaviour:
   m_ObjectHideFlags: 1

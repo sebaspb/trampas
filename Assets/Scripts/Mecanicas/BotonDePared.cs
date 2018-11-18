@@ -14,6 +14,10 @@ public class BotonDePared : MonoBehaviour {
 
 	public GameObject Trigger;
 
+	public GameObject nivel;
+
+	public string animacion;
+
 	Animation Animacion;
 
 		
@@ -35,6 +39,13 @@ public class BotonDePared : MonoBehaviour {
 
 				Debug.Log("Botón presionado");
 				Animacion.Play("Accionar Boton");
+			
+				if(animacion != "")
+				{
+
+					nivel.GetComponent<Animation>().Play(animacion);
+
+				}	
 
 			}
 			
