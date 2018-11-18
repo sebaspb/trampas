@@ -44,6 +44,14 @@ ModelImporter:
     100076: Piso_L_Lib.001
     100078: Pared trasera.001
     100080: 3x3 plano.000
+    100082: Plataforma piso 1
+    100084: plano alto 1
+    100086: plano alto 2
+    100088: plano bajo 1
+    100090: plano bajo 2
+    100092: plano medio 1
+    100094: plano medio 2
+    100096: Plataforma piso 2
     400000: 3x3 plano
     400002: 3x3 plano.001
     400004: 3x3 plano.002
@@ -85,6 +93,14 @@ ModelImporter:
     400076: Piso_L_Lib.001
     400078: Pared trasera.001
     400080: 3x3 plano.000
+    400082: Plataforma piso 1
+    400084: plano alto 1
+    400086: plano alto 2
+    400088: plano bajo 1
+    400090: plano bajo 2
+    400092: plano medio 1
+    400094: plano medio 2
+    400096: Plataforma piso 2
     2100000: Material
     2100002: Material.005
     2100004: Material.006
@@ -131,6 +147,14 @@ ModelImporter:
     2300076: Pared trasera.001
     2300078: //RootNode
     2300080: 3x3 plano.000
+    2300082: Plataforma piso 1
+    2300084: plano alto 1
+    2300086: plano alto 2
+    2300088: plano bajo 1
+    2300090: plano bajo 2
+    2300092: plano medio 1
+    2300094: plano medio 2
+    2300096: Plataforma piso 2
     3300000: 3x3 plano
     3300002: 3x3 plano.001
     3300004: 3x3 plano.002
@@ -172,6 +196,14 @@ ModelImporter:
     3300076: Pared trasera.001
     3300078: //RootNode
     3300080: 3x3 plano.000
+    3300082: Plataforma piso 1
+    3300084: plano alto 1
+    3300086: plano alto 2
+    3300088: plano bajo 1
+    3300090: plano bajo 2
+    3300092: plano medio 1
+    3300094: plano medio 2
+    3300096: Plataforma piso 2
     4300000: 3x3 plano.024
     4300002: 3x3 plano.023
     4300004: 3x3 plano.022
@@ -212,6 +244,14 @@ ModelImporter:
     4300074: Piso_L_Lib.001
     4300076: Pared trasera.001
     4300078: 3x3 plano.000
+    4300080: Plataforma piso 1
+    4300082: plano medio 1
+    4300084: plano alto 1
+    4300086: plano bajo 1
+    4300088: Plataforma piso 2
+    4300090: plano medio 2
+    4300092: plano bajo 2
+    4300094: plano alto 2
     6400000: 3x3 plano
     6400002: 3x3 plano.001
     6400004: 3x3 plano.002
@@ -253,12 +293,21 @@ ModelImporter:
     6400076: Pared trasera.001
     6400078: //RootNode
     6400080: 3x3 plano.000
+    6400082: Plataforma piso 1
+    6400084: plano alto 1
+    6400086: plano alto 2
+    6400088: plano bajo 1
+    6400090: plano bajo 2
+    6400092: plano medio 1
+    6400094: plano medio 2
+    6400096: Plataforma piso 2
     7400000: Piso|PisoAction.001
     7400002: Movimiento Pared
     7400004: Plataforma piso 1
     7400006: Plataforma piso 2
     9500000: //RootNode
     11100000: //RootNode
+    2186277476908879412: ImportLogs
   externalObjects: {}
   materials:
     importMaterials: 1
