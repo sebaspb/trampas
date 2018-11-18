@@ -22,6 +22,8 @@ public class Trampilla1: MonoBehaviour
 
 	public float tiempo;
 
+	public float tiempoDaño;
+
 	public float Daño;
 
 	Animation Animacion;
@@ -43,8 +45,7 @@ public class Trampilla1: MonoBehaviour
 			{
 
 				Animacion.Play("AbrirTrampilla");
-				vida -= Daño;
-				Debug.Log("Vida" + vida);
+				StartCoroutine(DañoTrampa(tiempoDaño));
 				EstaAbierta = true;
 				StartCoroutine(CerrarTrampa(tiempo));
 
@@ -68,6 +69,20 @@ public class Trampilla1: MonoBehaviour
 		yield return new WaitForSeconds(time);
 		Animacion.Play("CerrarTrampilla");
 		EstaAbierta = false;
+
+	}
+
+	IEnumerator DañoTrampa(float time)
+	{
+
+		yield return new WaitForSeconds(time);
+		if(Trigger.GetComponent<RevisionTrigger>().EstaEnTrigger)
+		{
+
+			vida -= Daño;
+			Debug.Log("Vida" + vida);
+		
+		}
 
 	}
 }
