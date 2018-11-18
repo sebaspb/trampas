@@ -42,6 +42,7 @@ ModelImporter:
     100072: Pared izquierda_L_Lib.001
     100074: Pared trasera_L_Lib.001
     100076: Piso_L_Lib.001
+    100078: Pared trasera.001
     400000: 3x3 plano
     400002: 3x3 plano.001
     400004: 3x3 plano.002
@@ -81,6 +82,7 @@ ModelImporter:
     400072: Pared izquierda_L_Lib.001
     400074: Pared trasera_L_Lib.001
     400076: Piso_L_Lib.001
+    400078: Pared trasera.001
     2100000: Material
     2100002: Material.005
     2100004: Material.006
@@ -124,6 +126,7 @@ ModelImporter:
     2300070: Pared izquierda_L_Lib.001
     2300072: Pared trasera_L_Lib.001
     2300074: Piso_L_Lib.001
+    2300076: Pared trasera.001
     3300000: 3x3 plano
     3300002: 3x3 plano.001
     3300004: 3x3 plano.002
@@ -162,6 +165,7 @@ ModelImporter:
     3300070: Pared izquierda_L_Lib.001
     3300072: Pared trasera_L_Lib.001
     3300074: Piso_L_Lib.001
+    3300076: Pared trasera.001
     4300000: 3x3 plano.024
     4300002: 3x3 plano.023
     4300004: 3x3 plano.022
@@ -200,6 +204,7 @@ ModelImporter:
     4300070: Pared izquierda_L_Lib.001
     4300072: Pared trasera_L_Lib.001
     4300074: Piso_L_Lib.001
+    4300076: Pared trasera.001
     6400000: 3x3 plano
     6400002: 3x3 plano.001
     6400004: 3x3 plano.002
@@ -238,6 +243,7 @@ ModelImporter:
     6400070: Pared izquierda_L_Lib.001
     6400072: Pared trasera_L_Lib.001
     6400074: Piso_L_Lib.001
+    6400076: Pared trasera.001
     7400000: Piso|PisoAction.001
     9500000: //RootNode
   externalObjects: {}
