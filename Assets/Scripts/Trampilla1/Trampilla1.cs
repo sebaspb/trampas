@@ -51,16 +51,15 @@ public class Trampilla1: MonoBehaviour
 				Animacion.Play("AbrirTrampilla");
 				StartCoroutine(DañoTrampa(tiempoDaño));
 				EstaAbierta = true;
-<<<<<<< HEAD
-                if (tienesonido) {
-                this.GetComponent<AudioSource>().Play();
-                }
-                StartCoroutine(CerrarTrampa(tiempo));
+
+                if (tienesonido)
+				{
+                	
+					this.GetComponent<AudioSource>().Play();
                 
-=======
-				StartCoroutine(CerrarTrampa(tiempo));
-				
->>>>>>> 3f286cea45e51fdf80676bbe5123adc974fd7b2b
+				}
+                StartCoroutine(CerrarTrampa(tiempo));
+            			
 			}
 
 			if(vida <= 0)
