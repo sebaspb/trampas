@@ -48,14 +48,14 @@ public class Trampilla1: MonoBehaviour
 				StartCoroutine(DañoTrampa(tiempoDaño));
 				EstaAbierta = true;
 				StartCoroutine(CerrarTrampa(tiempo));
-
+				
 			}
 
 			if(vida <= 0)
 			{
 
 				Destroy(GameObject.FindWithTag("Player"));
-
+				
 			}
 
 		}

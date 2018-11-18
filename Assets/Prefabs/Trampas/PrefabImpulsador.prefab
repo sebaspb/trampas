@@ -1319,6 +1319,7 @@ MonoBehaviour:
   FBX: {fileID: 1165985832508854}
   Trigger: {fileID: 1341094081110060}
   tiempo: 2
+  "tiempoDa\xF1o": 0
   "Da\xF1o": 0
 --- !u!114 &114912287299809616
 MonoBehaviour:
