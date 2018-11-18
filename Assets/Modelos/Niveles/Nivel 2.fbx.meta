@@ -43,6 +43,7 @@ ModelImporter:
     100074: Pared trasera_L_Lib.001
     100076: Piso_L_Lib.001
     100078: Pared trasera.001
+    100080: 3x3 plano.000
     400000: 3x3 plano
     400002: 3x3 plano.001
     400004: 3x3 plano.002
@@ -83,6 +84,7 @@ ModelImporter:
     400074: Pared trasera_L_Lib.001
     400076: Piso_L_Lib.001
     400078: Pared trasera.001
+    400080: 3x3 plano.000
     2100000: Material
     2100002: Material.005
     2100004: Material.006
@@ -127,6 +129,8 @@ ModelImporter:
     2300072: Pared trasera_L_Lib.001
     2300074: Piso_L_Lib.001
     2300076: Pared trasera.001
+    2300078: //RootNode
+    2300080: 3x3 plano.000
     3300000: 3x3 plano
     3300002: 3x3 plano.001
     3300004: 3x3 plano.002
@@ -166,6 +170,8 @@ ModelImporter:
     3300072: Pared trasera_L_Lib.001
     3300074: Piso_L_Lib.001
     3300076: Pared trasera.001
+    3300078: //RootNode
+    3300080: 3x3 plano.000
     4300000: 3x3 plano.024
     4300002: 3x3 plano.023
     4300004: 3x3 plano.022
@@ -205,6 +211,7 @@ ModelImporter:
     4300072: Pared trasera_L_Lib.001
     4300074: Piso_L_Lib.001
     4300076: Pared trasera.001
+    4300078: 3x3 plano.000
     6400000: 3x3 plano
     6400002: 3x3 plano.001
     6400004: 3x3 plano.002
@@ -244,8 +251,14 @@ ModelImporter:
     6400072: Pared trasera_L_Lib.001
     6400074: Piso_L_Lib.001
     6400076: Pared trasera.001
+    6400078: //RootNode
+    6400080: 3x3 plano.000
     7400000: Piso|PisoAction.001
+    7400002: Movimiento Pared
+    7400004: Plataforma piso 1
+    7400006: Plataforma piso 2
     9500000: //RootNode
+    11100000: //RootNode
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -273,7 +286,91 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Movimiento Pared
+      takeName: Scene
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Plataforma piso 1
+      takeName: Scene
+      firstFrame: 60
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Plataforma piso 2
+      takeName: Scene
+      firstFrame: 90
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 1
   meshes:
     lODScreenPercentages: []
@@ -319,10 +416,10 @@ ModelImporter:
     feetSpacing: 0
     rootMotionBoneName: 
     hasTranslationDoF: 0
-    hasExtraRoot: 0
+    hasExtraRoot: 1
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 1
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
