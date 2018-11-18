@@ -26,12 +26,16 @@ public class Trampilla1: MonoBehaviour
 
 	public float Daño;
 
-	Animation Animacion;
+
+    public bool tienesonido = false;
+
+   
+
+    Animation Animacion;
 	void Start () 
 	{
 
 		Animacion = FBX.GetComponent<Animation>();
-		
 
 	}
 	
@@ -47,8 +51,11 @@ public class Trampilla1: MonoBehaviour
 				Animacion.Play("AbrirTrampilla");
 				StartCoroutine(DañoTrampa(tiempoDaño));
 				EstaAbierta = true;
-				StartCoroutine(CerrarTrampa(tiempo));
-
+                if (tienesonido) {
+                this.GetComponent<AudioSource>().Play();
+                }
+                StartCoroutine(CerrarTrampa(tiempo));
+                
 			}
 
 			if(vida <= 0)
@@ -67,8 +74,13 @@ public class Trampilla1: MonoBehaviour
 	{
 
 		yield return new WaitForSeconds(time);
-		Animacion.Play("CerrarTrampilla");
-		EstaAbierta = false;
+        if (tienesonido)
+        {
+            this.GetComponent<AudioSource>().Play();
+        }
+        Animacion.Play("CerrarTrampilla");
+    
+        EstaAbierta = false;
 
 	}
 

@@ -809,6 +809,7 @@ MonoBehaviour:
   tiempo: 2.5
   "tiempoDa\xF1o": 1.45
   "Da\xF1o": 20
+  tienesonido: 0
 --- !u!114 &114392695052503720
 MonoBehaviour:
   m_ObjectHideFlags: 1
