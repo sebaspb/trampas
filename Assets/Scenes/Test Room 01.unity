@@ -959,7 +959,7 @@ Prefab:
     - target: {fileID: 114302738811486128, guid: 8f75e1ae21f666748b62c75c14ea4009,
         type: 2}
       propertyPath: animacion
-      value: plano medio 1
+      value: Plano medio 1
       objectReference: {fileID: 0}
     - target: {fileID: 114302738811486128, guid: 8f75e1ae21f666748b62c75c14ea4009,
         type: 2}
@@ -1025,7 +1025,7 @@ Prefab:
     - target: {fileID: 114302738811486128, guid: 8f75e1ae21f666748b62c75c14ea4009,
         type: 2}
       propertyPath: animacion
-      value: plano bajo 1
+      value: Plano bajo 1
       objectReference: {fileID: 0}
     - target: {fileID: 114302738811486128, guid: 8f75e1ae21f666748b62c75c14ea4009,
         type: 2}
@@ -1383,6 +1383,26 @@ Prefab:
       propertyPath: m_RootOrder
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 400070, guid: 408174eacf90c1c4587ef8b676b9b632, type: 3}
+      propertyPath: m_RootOrder
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 400076, guid: 408174eacf90c1c4587ef8b676b9b632, type: 3}
+      propertyPath: m_RootOrder
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 400068, guid: 408174eacf90c1c4587ef8b676b9b632, type: 3}
+      propertyPath: m_RootOrder
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 400072, guid: 408174eacf90c1c4587ef8b676b9b632, type: 3}
+      propertyPath: m_RootOrder
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 400074, guid: 408174eacf90c1c4587ef8b676b9b632, type: 3}
+      propertyPath: m_RootOrder
+      value: 16
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 408174eacf90c1c4587ef8b676b9b632, type: 3}
   m_IsPrefabAsset: 0
@@ -1442,7 +1462,7 @@ Prefab:
     - target: {fileID: 114302738811486128, guid: 8f75e1ae21f666748b62c75c14ea4009,
         type: 2}
       propertyPath: animacion
-      value: plano alto 1
+      value: Plano alto 1
       objectReference: {fileID: 0}
     - target: {fileID: 114302738811486128, guid: 8f75e1ae21f666748b62c75c14ea4009,
         type: 2}
@@ -1659,7 +1679,7 @@ Prefab:
     - target: {fileID: 114302738811486128, guid: 8f75e1ae21f666748b62c75c14ea4009,
         type: 2}
       propertyPath: animacion
-      value: Plataformapiso2
+      value: Plataforma piso 2
       objectReference: {fileID: 0}
     - target: {fileID: 114302738811486128, guid: 8f75e1ae21f666748b62c75c14ea4009,
         type: 2}
@@ -1720,12 +1740,12 @@ Prefab:
       objectReference: {fileID: 268099337}
     - target: {fileID: 1316094840149226, guid: 8f75e1ae21f666748b62c75c14ea4009, type: 2}
       propertyPath: m_Name
-      value: 'PrefabBotonPared(5) '
+      value: 'PrefabBotonPared (5) '
       objectReference: {fileID: 0}
     - target: {fileID: 114302738811486128, guid: 8f75e1ae21f666748b62c75c14ea4009,
         type: 2}
       propertyPath: animacion
-      value: plano medio 2
+      value: Plano medio 2
       objectReference: {fileID: 0}
     - target: {fileID: 114302738811486128, guid: 8f75e1ae21f666748b62c75c14ea4009,
         type: 2}
@@ -2340,7 +2360,7 @@ Prefab:
     - target: {fileID: 114302738811486128, guid: 8f75e1ae21f666748b62c75c14ea4009,
         type: 2}
       propertyPath: animacion
-      value: plano bajo 2
+      value: Plano bajo 2
       objectReference: {fileID: 0}
     - target: {fileID: 114302738811486128, guid: 8f75e1ae21f666748b62c75c14ea4009,
         type: 2}
@@ -2359,7 +2379,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4422507009814614, guid: 8f75e1ae21f666748b62c75c14ea4009, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 44.03
+      value: 44.049
       objectReference: {fileID: 0}
     - target: {fileID: 4422507009814614, guid: 8f75e1ae21f666748b62c75c14ea4009, type: 2}
       propertyPath: m_LocalPosition.y
@@ -2741,7 +2761,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4422507009814614, guid: 8f75e1ae21f666748b62c75c14ea4009, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 22.511
+      value: 22.128
       objectReference: {fileID: 0}
     - target: {fileID: 4422507009814614, guid: 8f75e1ae21f666748b62c75c14ea4009, type: 2}
       propertyPath: m_LocalPosition.y
@@ -2792,7 +2812,7 @@ Prefab:
     - target: {fileID: 114302738811486128, guid: 8f75e1ae21f666748b62c75c14ea4009,
         type: 2}
       propertyPath: animacion
-      value: plano alto 2
+      value: Plano alto 2
       objectReference: {fileID: 0}
     - target: {fileID: 114302738811486128, guid: 8f75e1ae21f666748b62c75c14ea4009,
         type: 2}
