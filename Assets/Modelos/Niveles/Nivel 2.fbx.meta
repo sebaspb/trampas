@@ -3,317 +3,133 @@ guid: 408174eacf90c1c4587ef8b676b9b632
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: 3x3 plano
-    100002: 3x3 plano.001
-    100004: 3x3 plano.002
-    100006: 3x3 plano.003
-    100008: 3x3 plano.004
-    100010: 3x3 plano.005
-    100012: 3x3 plano.006
-    100014: 3x3 plano.007
-    100016: 3x3 plano.008
-    100018: 3x3 plano.009
-    100020: 3x3 plano.010
-    100022: 3x3 plano.011
-    100024: 3x3 plano.012
-    100026: 3x3 plano.013
-    100028: 3x3 plano.014
-    100030: 3x3 plano.015
-    100032: 3x3 plano.016
-    100034: 3x3 plano.017
-    100036: 3x3 plano.018
-    100038: 3x3 plano.019
-    100040: 3x3 plano.020
-    100042: 3x3 plano.021
-    100044: 3x3 plano.022
-    100046: 3x3 plano.023
-    100048: 3x3 plano.024
-    100050: 4x4 plano
-    100052: //RootNode
-    100054: Pared derecha
-    100056: Pared derecha.001
-    100058: Pared fronta
-    100060: Pared izquierda
-    100062: Pared izquierda.001
-    100064: Pared trasera
-    100066: Piso
-    100068: Pared derecha_L_Lib.001
-    100070: Pared frontal_L_Lib.001
-    100072: Pared izquierda_L_Lib.001
-    100074: Pared trasera_L_Lib.001
-    100076: Piso_L_Lib.001
-    100078: Pared trasera.001
-    100080: 3x3 plano.000
-    100082: Plataforma piso 1
-    100084: plano alto 1
-    100086: plano alto 2
-    100088: plano bajo 1
-    100090: plano bajo 2
-    100092: plano medio 1
-    100094: plano medio 2
-    100096: Plataforma piso 2
-    400000: 3x3 plano
-    400002: 3x3 plano.001
-    400004: 3x3 plano.002
-    400006: 3x3 plano.003
-    400008: 3x3 plano.004
-    400010: 3x3 plano.005
-    400012: 3x3 plano.006
-    400014: 3x3 plano.007
-    400016: 3x3 plano.008
-    400018: 3x3 plano.009
-    400020: 3x3 plano.010
-    400022: 3x3 plano.011
-    400024: 3x3 plano.012
-    400026: 3x3 plano.013
-    400028: 3x3 plano.014
-    400030: 3x3 plano.015
-    400032: 3x3 plano.016
-    400034: 3x3 plano.017
-    400036: 3x3 plano.018
-    400038: 3x3 plano.019
-    400040: 3x3 plano.020
-    400042: 3x3 plano.021
-    400044: 3x3 plano.022
-    400046: 3x3 plano.023
-    400048: 3x3 plano.024
-    400050: 4x4 plano
-    400052: //RootNode
-    400054: Pared derecha
-    400056: Pared derecha.001
-    400058: Pared fronta
-    400060: Pared izquierda
-    400062: Pared izquierda.001
-    400064: Pared trasera
-    400066: Piso
-    400068: Pared derecha_L_Lib.001
-    400070: Pared frontal_L_Lib.001
-    400072: Pared izquierda_L_Lib.001
-    400074: Pared trasera_L_Lib.001
-    400076: Piso_L_Lib.001
-    400078: Pared trasera.001
-    400080: 3x3 plano.000
-    400082: Plataforma piso 1
-    400084: plano alto 1
-    400086: plano alto 2
-    400088: plano bajo 1
-    400090: plano bajo 2
-    400092: plano medio 1
-    400094: plano medio 2
-    400096: Plataforma piso 2
+    100000: Cube
+    100002: Cube.001
+    100004: Cube.003
+    100006: Cylinder
+    100008: Cylinder.003
+    100010: //RootNode
+    100012: Pared derecha.001
+    100014: Pared fronta
+    100016: Pared izquierda
+    100018: Pared trasera
+    100020: Piso
+    100022: plano alto 1
+    100024: plano alto 2
+    100026: plano bajo 1
+    100028: plano bajo 2
+    100030: plano medio 1
+    100032: plano medio 2
+    100034: Plataforma piso 1
+    100036: Plataforma piso 2
+    400000: Cube
+    400002: Cube.001
+    400004: Cube.003
+    400006: Cylinder
+    400008: Cylinder.003
+    400010: //RootNode
+    400012: Pared derecha.001
+    400014: Pared fronta
+    400016: Pared izquierda
+    400018: Pared trasera
+    400020: Piso
+    400022: plano alto 1
+    400024: plano alto 2
+    400026: plano bajo 1
+    400028: plano bajo 2
+    400030: plano medio 1
+    400032: plano medio 2
+    400034: Plataforma piso 1
+    400036: Plataforma piso 2
     2100000: Material
-    2100002: Material.005
-    2100004: Material.006
-    2100006: Material.007
+    2100002: Material.007
+    2100004: Material.005
+    2100006: Material.006
     2100008: Material.001
-    2300000: 3x3 plano
-    2300002: 3x3 plano.001
-    2300004: 3x3 plano.002
-    2300006: 3x3 plano.003
-    2300008: 3x3 plano.004
-    2300010: 3x3 plano.005
-    2300012: 3x3 plano.006
-    2300014: 3x3 plano.007
-    2300016: 3x3 plano.008
-    2300018: 3x3 plano.009
-    2300020: 3x3 plano.010
-    2300022: 3x3 plano.011
-    2300024: 3x3 plano.012
-    2300026: 3x3 plano.013
-    2300028: 3x3 plano.014
-    2300030: 3x3 plano.015
-    2300032: 3x3 plano.016
-    2300034: 3x3 plano.017
-    2300036: 3x3 plano.018
-    2300038: 3x3 plano.019
-    2300040: 3x3 plano.020
-    2300042: 3x3 plano.021
-    2300044: 3x3 plano.022
-    2300046: 3x3 plano.023
-    2300048: 3x3 plano.024
-    2300050: 4x4 plano
-    2300052: Pared derecha
-    2300054: Pared derecha.001
-    2300056: Pared fronta
-    2300058: Pared izquierda
-    2300060: Pared izquierda.001
-    2300062: Pared trasera
-    2300064: Piso
-    2300066: Pared derecha_L_Lib.001
-    2300068: Pared frontal_L_Lib.001
-    2300070: Pared izquierda_L_Lib.001
-    2300072: Pared trasera_L_Lib.001
-    2300074: Piso_L_Lib.001
-    2300076: Pared trasera.001
-    2300078: //RootNode
-    2300080: 3x3 plano.000
-    2300082: Plataforma piso 1
-    2300084: plano alto 1
-    2300086: plano alto 2
-    2300088: plano bajo 1
-    2300090: plano bajo 2
-    2300092: plano medio 1
-    2300094: plano medio 2
-    2300096: Plataforma piso 2
-    3300000: 3x3 plano
-    3300002: 3x3 plano.001
-    3300004: 3x3 plano.002
-    3300006: 3x3 plano.003
-    3300008: 3x3 plano.004
-    3300010: 3x3 plano.005
-    3300012: 3x3 plano.006
-    3300014: 3x3 plano.007
-    3300016: 3x3 plano.008
-    3300018: 3x3 plano.009
-    3300020: 3x3 plano.010
-    3300022: 3x3 plano.011
-    3300024: 3x3 plano.012
-    3300026: 3x3 plano.013
-    3300028: 3x3 plano.014
-    3300030: 3x3 plano.015
-    3300032: 3x3 plano.016
-    3300034: 3x3 plano.017
-    3300036: 3x3 plano.018
-    3300038: 3x3 plano.019
-    3300040: 3x3 plano.020
-    3300042: 3x3 plano.021
-    3300044: 3x3 plano.022
-    3300046: 3x3 plano.023
-    3300048: 3x3 plano.024
-    3300050: 4x4 plano
-    3300052: Pared derecha
-    3300054: Pared derecha.001
-    3300056: Pared fronta
-    3300058: Pared izquierda
-    3300060: Pared izquierda.001
-    3300062: Pared trasera
-    3300064: Piso
-    3300066: Pared derecha_L_Lib.001
-    3300068: Pared frontal_L_Lib.001
-    3300070: Pared izquierda_L_Lib.001
-    3300072: Pared trasera_L_Lib.001
-    3300074: Piso_L_Lib.001
-    3300076: Pared trasera.001
-    3300078: //RootNode
-    3300080: 3x3 plano.000
-    3300082: Plataforma piso 1
-    3300084: plano alto 1
-    3300086: plano alto 2
-    3300088: plano bajo 1
-    3300090: plano bajo 2
-    3300092: plano medio 1
-    3300094: plano medio 2
-    3300096: Plataforma piso 2
-    4300000: 3x3 plano.024
-    4300002: 3x3 plano.023
-    4300004: 3x3 plano.022
-    4300006: 3x3 plano.021
-    4300008: 3x3 plano.020
-    4300010: 3x3 plano.019
-    4300012: 3x3 plano.018
-    4300014: 3x3 plano.017
-    4300016: 3x3 plano.016
-    4300018: 3x3 plano.015
-    4300020: 3x3 plano.014
-    4300022: 3x3 plano.013
-    4300024: 3x3 plano.012
-    4300026: 3x3 plano.005
-    4300028: 3x3 plano.011
-    4300030: 3x3 plano.010
-    4300032: 3x3 plano.009
-    4300034: 3x3 plano.008
-    4300036: 3x3 plano.007
-    4300038: 3x3 plano.006
-    4300040: 3x3 plano.004
-    4300042: 3x3 plano.003
-    4300044: 3x3 plano.002
-    4300046: 3x3 plano.001
-    4300048: Pared izquierda
-    4300050: Pared derecha
-    4300052: Pared fronta
-    4300054: Pared trasera
-    4300056: Pared derecha.001
-    4300058: Pared izquierda.001
-    4300060: Piso
-    4300062: 3x3 plano
-    4300064: 4x4 plano
-    4300066: Pared derecha_L_Lib.001
-    4300068: Pared frontal_L_Lib.001
-    4300070: Pared izquierda_L_Lib.001
-    4300072: Pared trasera_L_Lib.001
-    4300074: Piso_L_Lib.001
-    4300076: Pared trasera.001
-    4300078: 3x3 plano.000
-    4300080: Plataforma piso 1
-    4300082: plano medio 1
-    4300084: plano alto 1
-    4300086: plano bajo 1
-    4300088: Plataforma piso 2
-    4300090: plano medio 2
-    4300092: plano bajo 2
-    4300094: plano alto 2
-    6400000: 3x3 plano
-    6400002: 3x3 plano.001
-    6400004: 3x3 plano.002
-    6400006: 3x3 plano.003
-    6400008: 3x3 plano.004
-    6400010: 3x3 plano.005
-    6400012: 3x3 plano.006
-    6400014: 3x3 plano.007
-    6400016: 3x3 plano.008
-    6400018: 3x3 plano.009
-    6400020: 3x3 plano.010
-    6400022: 3x3 plano.011
-    6400024: 3x3 plano.012
-    6400026: 3x3 plano.013
-    6400028: 3x3 plano.014
-    6400030: 3x3 plano.015
-    6400032: 3x3 plano.016
-    6400034: 3x3 plano.017
-    6400036: 3x3 plano.018
-    6400038: 3x3 plano.019
-    6400040: 3x3 plano.020
-    6400042: 3x3 plano.021
-    6400044: 3x3 plano.022
-    6400046: 3x3 plano.023
-    6400048: 3x3 plano.024
-    6400050: 4x4 plano
-    6400052: Pared derecha
-    6400054: Pared derecha.001
-    6400056: Pared fronta
-    6400058: Pared izquierda
-    6400060: Pared izquierda.001
-    6400062: Pared trasera
-    6400064: Piso
-    6400066: Pared derecha_L_Lib.001
-    6400068: Pared frontal_L_Lib.001
-    6400070: Pared izquierda_L_Lib.001
-    6400072: Pared trasera_L_Lib.001
-    6400074: Piso_L_Lib.001
-    6400076: Pared trasera.001
-    6400078: //RootNode
-    6400080: 3x3 plano.000
-    6400082: Plataforma piso 1
-    6400084: plano alto 1
-    6400086: plano alto 2
-    6400088: plano bajo 1
-    6400090: plano bajo 2
-    6400092: plano medio 1
-    6400094: plano medio 2
-    6400096: Plataforma piso 2
-    7400000: Piso|PisoAction.001
-    7400002: Movimiento pared
-    7400004: Plataforma piso 2
-    7400006: Plano alto 2
+    2100010: No Name
+    2300000: Cube
+    2300002: Cube.001
+    2300004: Cube.003
+    2300006: Cylinder
+    2300008: Cylinder.003
+    2300010: Pared derecha.001
+    2300012: Pared fronta
+    2300014: Pared izquierda
+    2300016: Pared trasera
+    2300018: Piso
+    2300020: plano alto 1
+    2300022: plano alto 2
+    2300024: plano bajo 1
+    2300026: plano bajo 2
+    2300028: plano medio 1
+    2300030: plano medio 2
+    2300032: Plataforma piso 1
+    2300034: Plataforma piso 2
+    3300000: Cube
+    3300002: Cube.001
+    3300004: Cube.003
+    3300006: Cylinder
+    3300008: Cylinder.003
+    3300010: Pared derecha.001
+    3300012: Pared fronta
+    3300014: Pared izquierda
+    3300016: Pared trasera
+    3300018: Piso
+    3300020: plano alto 1
+    3300022: plano alto 2
+    3300024: plano bajo 1
+    3300026: plano bajo 2
+    3300028: plano medio 1
+    3300030: plano medio 2
+    3300032: Plataforma piso 1
+    3300034: Plataforma piso 2
+    4300000: Plataforma piso 1
+    4300002: plano medio 1
+    4300004: plano alto 1
+    4300006: plano bajo 1
+    4300008: Plataforma piso 2
+    4300010: plano medio 2
+    4300012: plano bajo 2
+    4300014: Pared fronta
+    4300016: Pared trasera
+    4300018: Pared derecha.001
+    4300020: Pared izquierda
+    4300022: Piso
+    4300024: plano alto 2
+    4300026: Cylinder
+    4300028: Cylinder.003
+    4300030: Cube.001
+    4300032: Cube.003
+    4300034: Cube
+    6400000: Cube
+    6400002: Cube.001
+    6400004: Cube.003
+    6400006: Cylinder
+    6400008: Cylinder.003
+    6400010: Pared derecha.001
+    6400012: Pared fronta
+    6400014: Pared izquierda
+    6400016: Pared trasera
+    6400018: Piso
+    6400020: plano alto 1
+    6400022: plano alto 2
+    6400024: plano bajo 1
+    6400026: plano bajo 2
+    6400028: plano medio 1
+    6400030: plano medio 2
+    6400032: Plataforma piso 1
+    6400034: Plataforma piso 2
+    7400000: Plataforma piso 2
+    7400002: Plataforma media 1
+    7400004: Plataforma alta 1
+    7400006: Plataforma baja 1
     7400008: Plataforma piso 1
-    7400010: Plano medio 1
-    7400012: Plano bajo 1
-    7400014: Plano alto 1
-    7400016: Plano medio 2
-    7400018: Plano bajo 2
+    7400010: Plataforma media 2
+    7400012: Plataforma baja 2
+    7400014: Pared
+    7400016: Plataforma alta 2
+    7400018: Martillo
     9500000: //RootNode
-    11100000: //RootNode
-    2186277476908879412: ImportLogs
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -343,38 +159,10 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Movimiento pared
-      takeName: Scene
-      firstFrame: 1
-      lastFrame: 60
-      wrapMode: 0
-      orientationOffsetY: 0
-      level: 0
-      cycleOffset: 0
-      loop: 0
-      hasAdditiveReferencePose: 0
-      loopTime: 0
-      loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
-      keepOriginalPositionY: 1
-      keepOriginalPositionXZ: 0
-      heightFromFeet: 0
-      mirror: 0
-      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
-      curves: []
-      events: []
-      transformMask: []
-      maskType: 3
-      maskSource: {instanceID: 0}
-      additiveReferencePoseFrame: 0
-    - serializedVersion: 16
       name: Plataforma piso 2
-      takeName: Scene
-      firstFrame: 60
-      lastFrame: 89
+      takeName: Plataforma piso 2
+      firstFrame: 0
+      lastFrame: 29
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -399,10 +187,10 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Plano bajo 1
-      takeName: Scene
-      firstFrame: 89
-      lastFrame: 109
+      name: Plataforma media 1
+      takeName: Plataforma media 1
+      firstFrame: 0
+      lastFrame: 29
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -427,10 +215,38 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Plano medio 1
-      takeName: Scene
-      firstFrame: 110
-      lastFrame: 129
+      name: Plataforma alta 1
+      takeName: Plataforma alta 1
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Plataforma baja 1
+      takeName: Plataforma baja 1
+      firstFrame: 0
+      lastFrame: 29
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -456,9 +272,9 @@ ModelImporter:
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
       name: Plataforma piso 1
-      takeName: Scene
-      firstFrame: 130
-      lastFrame: 159
+      takeName: Plataforma piso 1
+      firstFrame: 0
+      lastFrame: 29
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -483,10 +299,10 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Plano bajo 2
-      takeName: Scene
-      firstFrame: 160
-      lastFrame: 179
+      name: Plataforma media 2
+      takeName: Plataforma media 2
+      firstFrame: 0
+      lastFrame: 29
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -511,10 +327,10 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Plano medio 2
-      takeName: Scene
-      firstFrame: 179
-      lastFrame: 198
+      name: Plataforma baja 2
+      takeName: Plataforma baja 2
+      firstFrame: 0
+      lastFrame: 29
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -539,10 +355,10 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Plano alto 1
-      takeName: Scene
-      firstFrame: 199
-      lastFrame: 218
+      name: Pared
+      takeName: Pared
+      firstFrame: 0
+      lastFrame: 59
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -567,10 +383,10 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: Plano alto 2
-      takeName: Scene
-      firstFrame: 218
-      lastFrame: 237
+      name: Plataforma alta 2
+      takeName: Plataforma alta 2
+      firstFrame: 0
+      lastFrame: 29
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -578,6 +394,34 @@ ModelImporter:
       loop: 0
       hasAdditiveReferencePose: 0
       loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Martillo
+      takeName: Martillo
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
       loopBlend: 0
       loopBlendOrientation: 0
       loopBlendPositionY: 0
@@ -639,10 +483,10 @@ ModelImporter:
     feetSpacing: 0
     rootMotionBoneName: 
     hasTranslationDoF: 0
-    hasExtraRoot: 1
+    hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 1
+  animationType: 2
   humanoidOversampling: 1
   additionalBone: 0
   userData: 

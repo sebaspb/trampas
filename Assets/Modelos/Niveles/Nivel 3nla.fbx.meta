@@ -1,0 +1,501 @@
+fileFormatVersion: 2
+guid: a500fae2925210043833215d429424f5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Pared derecha.001
+    100004: Pared fronta
+    100006: Pared izquierda
+    100008: Pared trasera
+    100010: Piso
+    100012: plano alto 1
+    100014: plano alto 2
+    100016: plano bajo 1
+    100018: plano bajo 2
+    100020: plano medio 1
+    100022: plano medio 2
+    100024: Plataforma piso 1
+    100026: Plataforma piso 2
+    100028: Pared_derecha_001
+    100030: Pared_fronta
+    100032: Pared_izquierda
+    100034: Pared_trasera
+    100036: plano_alto_1
+    100038: plano_alto_2
+    100040: plano_bajo_1
+    100042: plano_bajo_2
+    100044: plano_medio_1
+    100046: plano_medio_2
+    100048: Plataforma_piso_1
+    100050: Plataforma_piso_2
+    400000: //RootNode
+    400002: Pared derecha.001
+    400004: Pared fronta
+    400006: Pared izquierda
+    400008: Pared trasera
+    400010: Piso
+    400012: plano alto 1
+    400014: plano alto 2
+    400016: plano bajo 1
+    400018: plano bajo 2
+    400020: plano medio 1
+    400022: plano medio 2
+    400024: Plataforma piso 1
+    400026: Plataforma piso 2
+    400028: Pared_derecha_001
+    400030: Pared_fronta
+    400032: Pared_izquierda
+    400034: Pared_trasera
+    400036: plano_alto_1
+    400038: plano_alto_2
+    400040: plano_bajo_1
+    400042: plano_bajo_2
+    400044: plano_medio_1
+    400046: plano_medio_2
+    400048: Plataforma_piso_1
+    400050: Plataforma_piso_2
+    2100000: Material
+    2100002: Material.007
+    2100004: Material.005
+    2100006: Material.006
+    2100008: Material.001
+    2100010: Material_007
+    2100012: Material_005
+    2100014: Material_006
+    2100016: Material_001
+    2300000: Pared derecha.001
+    2300002: Pared fronta
+    2300004: Pared izquierda
+    2300006: Pared trasera
+    2300008: Piso
+    2300010: plano alto 1
+    2300012: plano alto 2
+    2300014: plano bajo 1
+    2300016: plano bajo 2
+    2300018: plano medio 1
+    2300020: plano medio 2
+    2300022: Plataforma piso 1
+    2300024: Plataforma piso 2
+    2300026: Pared_derecha_001
+    2300028: Pared_fronta
+    2300030: Pared_izquierda
+    2300032: Pared_trasera
+    2300034: plano_alto_1
+    2300036: plano_alto_2
+    2300038: plano_bajo_1
+    2300040: plano_bajo_2
+    2300042: plano_medio_1
+    2300044: plano_medio_2
+    2300046: Plataforma_piso_1
+    2300048: Plataforma_piso_2
+    3300000: Pared derecha.001
+    3300002: Pared fronta
+    3300004: Pared izquierda
+    3300006: Pared trasera
+    3300008: Piso
+    3300010: plano alto 1
+    3300012: plano alto 2
+    3300014: plano bajo 1
+    3300016: plano bajo 2
+    3300018: plano medio 1
+    3300020: plano medio 2
+    3300022: Plataforma piso 1
+    3300024: Plataforma piso 2
+    3300026: Pared_derecha_001
+    3300028: Pared_fronta
+    3300030: Pared_izquierda
+    3300032: Pared_trasera
+    3300034: plano_alto_1
+    3300036: plano_alto_2
+    3300038: plano_bajo_1
+    3300040: plano_bajo_2
+    3300042: plano_medio_1
+    3300044: plano_medio_2
+    3300046: Plataforma_piso_1
+    3300048: Plataforma_piso_2
+    4300000: Plataforma piso 1
+    4300002: plano medio 1
+    4300004: plano alto 1
+    4300006: plano bajo 1
+    4300008: Plataforma piso 2
+    4300010: plano medio 2
+    4300012: plano bajo 2
+    4300014: Pared fronta
+    4300016: Pared trasera
+    4300018: Pared derecha.001
+    4300020: Pared izquierda
+    4300022: Piso
+    4300024: plano alto 2
+    4300026: Plataforma_piso_1
+    4300028: plano_medio_1
+    4300030: plano_alto_1
+    4300032: plano_bajo_1
+    4300034: Plataforma_piso_2
+    4300036: plano_medio_2
+    4300038: plano_bajo_2
+    4300040: Pared_fronta
+    4300042: Pared_trasera
+    4300044: Pared_derecha_001
+    4300046: Pared_izquierda
+    4300048: plano_alto_2
+    6400000: Pared derecha.001
+    6400002: Pared fronta
+    6400004: Pared izquierda
+    6400006: Pared trasera
+    6400008: Piso
+    6400010: plano alto 1
+    6400012: plano alto 2
+    6400014: plano bajo 1
+    6400016: plano bajo 2
+    6400018: plano medio 1
+    6400020: plano medio 2
+    6400022: Plataforma piso 1
+    6400024: Plataforma piso 2
+    7400000: Plataforma piso 2
+    7400002: Plataforma alta 1
+    7400004: Plataforma baja 1
+    7400006: Plataforma piso 1
+    7400008: Plataforma media 2
+    7400010: Plataforma baja 2
+    7400012: Pared
+    7400014: Plataforma alta 2
+    7400016: Scene
+    7400018: Default Take
+    7400020: Plataforma media 1
+    9500000: //RootNode
+    11100000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Plataforma piso 2
+      takeName: Plataforma piso 2
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Plataforma media 1
+      takeName: Plataforma media 1
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Plataforma alta 1
+      takeName: Plataforma alta 1
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Plataforma baja 1
+      takeName: Plataforma baja 1
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Plataforma piso 1
+      takeName: Plataforma piso 1
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Plataforma media 2
+      takeName: Plataforma media 2
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Plataforma baja 2
+      takeName: Plataforma baja 2
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Pared
+      takeName: Pared
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Plataforma alta 2
+      takeName: Plataforma alta 2
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

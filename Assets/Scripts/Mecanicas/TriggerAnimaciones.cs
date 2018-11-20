@@ -12,14 +12,29 @@ public class TriggerAnimaciones : MonoBehaviour
 	/// </summary>
 	
 	public GameObject nivel;
-	public string animacion;
-	
-	void Start ()
+
+
+    public AnimationClip[] ArrayAnimaciones;
+    public AnimationClip AnimacionAsignada;
+    string nombre;
+    int layer;
+    public bool SePuedeRepetir = false;
+
+    void Start ()
 	{
 
-		
-		
-	}
+        for (int i = 0; i < ArrayAnimaciones.Length; i++)
+        {
+            if (AnimacionAsignada == ArrayAnimaciones[i])
+            {
+                nombre = AnimacionAsignada.name;
+                layer = i;
+            }
+
+
+        }
+
+    }
 	
 	// Update is called once per frame
 	void Update ()
@@ -32,11 +47,19 @@ public class TriggerAnimaciones : MonoBehaviour
 
 		if(other.CompareTag("Player"))
 		{
+            int control = 0;
 
-			Debug.Log("Hola");
-			nivel.GetComponent<Animation>().Play(animacion);
+            if (AnimacionAsignada != null)
+            {
+                if (!SePuedeRepetir && control == 0)
+                {
 
-		}
+                    control = 1;
+                    nivel.GetComponent<Animator>().Play(nombre, layer);
+                    Destroy(gameObject);
+                }
+            }
+        }
 		
 	}
 }

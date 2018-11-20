@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor.Animations;
 
+using UnityEditor;
+
 public class BotonDePared : MonoBehaviour {
 
 	/// <summary>
@@ -16,17 +18,36 @@ public class BotonDePared : MonoBehaviour {
 
 	public GameObject nivel;
 
-	public string animacion;
+	public AnimationClip AnimacionAsignada;
 
-	Animation Animacion;
+    public bool SePuedeRepetir = false;
 
-		
-	void Start () 
+    string nombre;
+
+    int layer;
+
+	Animation AnimacionBoton;
+
+    public AnimationClip[] ArrayAnimaciones;
+
+
+    void Start () 
 	{
+        AnimacionBoton = FBX.GetComponent<Animation>();
 
-		Animacion = FBX.GetComponent<Animation>();
-		
-	}
+        for (int i = 0; i < ArrayAnimaciones.Length; i++)
+        {
+            if (AnimacionAsignada == ArrayAnimaciones[i])
+            {
+                nombre = AnimacionAsignada.name;
+                layer = i;
+            }
+
+
+        }
+
+
+    }   
 	
 	// Update is called once per frame
 	void Update ()
@@ -34,27 +55,33 @@ public class BotonDePared : MonoBehaviour {
 
 		if(Input.GetKeyDown(KeyCode.E) && Trigger.GetComponent<RevisionTrigger>().EstaEnTrigger)
 		{
-			if(!Animacion.IsPlaying("Accionar Boton"))
-			{
+            if (!AnimacionBoton.IsPlaying("Accionar Boton"))
+            {
+                int control = 0;
 
-				Debug.Log("Botón presionado");
-				Animacion.Play("Accionar Boton");
-			
-				if(animacion != "")
-				{
+                Debug.Log("Botón presionado");
+                AnimacionBoton.Play("Accionar Boton");
 
-					nivel.GetComponent<Animation>().Play(animacion);
+                if (AnimacionAsignada != null)
+                {
+                    if (!SePuedeRepetir && control==0)
+                    {
 
-				}	
+                      
+                            control = 1;
+                            nivel.GetComponent<Animator>().Play(nombre, layer);
+                       
+                    }
 
-			}
-			
-			else
-			{
+                }
+            }
 
-				Debug.Log("Botón en uso");
+            else
+            {
 
-			}
+                Debug.Log("Botón en uso");
+
+            }
 			
 
 		}
