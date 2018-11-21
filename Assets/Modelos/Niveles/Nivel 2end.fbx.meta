@@ -22,6 +22,7 @@ ModelImporter:
     100032: plano medio 2
     100034: Plataforma piso 1
     100036: Plataforma piso 2
+    100038: Piso.002
     400000: //RootNode
     400002: Pared derecha.001
     400004: Pared derecha_L_Lib.001
@@ -41,6 +42,7 @@ ModelImporter:
     400032: plano medio 2
     400034: Plataforma piso 1
     400036: Plataforma piso 2
+    400038: Piso.002
     2100000: Material
     2100002: Material.007
     2100004: Material.005
@@ -64,6 +66,7 @@ ModelImporter:
     2300030: plano medio 2
     2300032: Plataforma piso 1
     2300034: Plataforma piso 2
+    2300036: Piso.002
     3300000: Pared derecha.001
     3300002: Pared derecha_L_Lib.001
     3300004: Pared fronta
@@ -82,6 +85,7 @@ ModelImporter:
     3300030: plano medio 2
     3300032: Plataforma piso 1
     3300034: Plataforma piso 2
+    3300036: Piso.002
     4300000: Plataforma piso 1
     4300002: plano medio 1
     4300004: plano alto 1
@@ -100,6 +104,32 @@ ModelImporter:
     4300030: Pared izquierda_L_Lib.001
     4300032: Pared trasera_L_Lib.001
     4300034: Piso_L_Lib.001
+    4300036: Piso.002
+    6400000: Pared derecha.001
+    6400002: Pared fronta
+    6400004: Pared izquierda
+    6400006: Pared trasera
+    6400008: Piso
+    6400010: Piso.002
+    6400012: plano alto 1
+    6400014: plano alto 2
+    6400016: plano bajo 1
+    6400018: plano bajo 2
+    6400020: plano medio 1
+    6400022: plano medio 2
+    6400024: Plataforma piso 1
+    6400026: Plataforma piso 2
+    7400000: Plataforma piso 2
+    7400002: Plataforma media 1
+    7400004: Plataforma alta 1
+    7400006: Plataforma baja 1
+    7400008: Plataforma piso 1
+    7400010: Plataforma media 2
+    7400012: Plataforma baja 2
+    7400014: Pared
+    7400016: Plataforma alta 2
+    7400018: Scene
+    9500000: //RootNode
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -120,7 +150,7 @@ ModelImporter:
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
     importConstraints: 0
-    animationCompression: 1
+    animationCompression: 3
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
@@ -133,7 +163,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
@@ -152,7 +182,7 @@ ModelImporter:
     secondaryUVPackMargin: 4
     useFileScale: 1
     previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -173,10 +203,10 @@ ModelImporter:
     feetSpacing: 0
     rootMotionBoneName: 
     hasTranslationDoF: 0
-    hasExtraRoot: 0
+    hasExtraRoot: 1
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  animationType: 2
   humanoidOversampling: 1
   additionalBone: 0
   userData: 

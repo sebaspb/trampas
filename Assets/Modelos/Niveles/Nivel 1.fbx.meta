@@ -9,12 +9,14 @@ ModelImporter:
     100006: Pared izquierda
     100008: Pared trasera
     100010: Piso
+    100012: Piso.001
     400000: //RootNode
     400002: Pared derecha
     400004: Pared frontal
     400006: Pared izquierda
     400008: Pared trasera
     400010: Piso
+    400012: Piso.001
     2100000: Material.007
     2100002: Material.005
     2100004: Material.006
@@ -23,21 +25,25 @@ ModelImporter:
     2300004: Pared izquierda
     2300006: Pared trasera
     2300008: Piso
+    2300010: Piso.001
     3300000: Pared derecha
     3300002: Pared frontal
     3300004: Pared izquierda
     3300006: Pared trasera
     3300008: Piso
+    3300010: Piso.001
     4300000: Pared frontal
     4300002: Pared derecha
     4300004: Pared izquierda
     4300006: Piso
     4300008: Pared trasera
+    4300010: Piso.001
     6400000: Pared derecha
     6400002: Pared frontal
     6400004: Pared izquierda
     6400006: Pared trasera
     6400008: Piso
+    6400010: Piso.001
   externalObjects: {}
   materials:
     importMaterials: 1
