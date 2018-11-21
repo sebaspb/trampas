@@ -29,7 +29,7 @@ public class ControlMenus : MonoBehaviour
 		canvasActivado.SetActive(true);
 	}
 
-	public void DeactivateCanvas(GameObject canvasDesactivado)
+	public void DesactivarCanvas(GameObject canvasDesactivado)
 	{
 		canvasDesactivado.SetActive(false);
 	}
