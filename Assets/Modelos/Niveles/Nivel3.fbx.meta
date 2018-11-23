@@ -396,6 +396,64 @@ ModelImporter:
     100780: 2x2 b.342
     100782: 2x2 b.343
     100784: 2x2 b.344
+    100786: 2x2 b.351
+    100788: 2x2 b.352
+    100790: 2x2 b.353
+    100792: 2x2 b.354
+    100794: 2x2 b.361
+    100796: 2x2 b.362
+    100798: 2x2 b.363
+    100800: 2x2 b.364
+    100802: 2x2 b.368
+    100804: Subpuerta 1 derecha
+    100806: Subpuerta 1 izquierda
+    100808: Subpuerta 2 derecha
+    100810: Subpuerta 2 izquierda
+    100812: Subpuerta 3 derecha
+    100814: Subpuerta 3 izquierda
+    100816: Subpuerta 4 derecha
+    100818: Subpuerta 4 izquierda
+    100820: Subpuerta 5 derecha
+    100822: Subpuerta 5 izquierda
+    100824: cubo1
+    100826: Armature
+    100828: Bone
+    100830: Bone.001
+    100832: Bone.001_end
+    100834: Bone.002
+    100836: Bone.002_end
+    100838: Bone.003
+    100840: Bone.003_end
+    100842: Bone.004
+    100844: Bone.004_end
+    100846: Bone.005
+    100848: Bone.005_end
+    100850: Bone.006
+    100852: Bone.006_end
+    100854: Bone.007
+    100856: Bone.007_end
+    100858: Bone.008
+    100860: Bone.008_end
+    100862: Bone.009
+    100864: Bone.009_end
+    100866: Bone_end
+    100868: Paredes invisibles
+    100870: 2x2 a.058
+    100872: 2x2 b.000
+    100874: 2x2 b.370
+    100876: 2x2 b.371
+    100878: 2x2 b.373
+    100880: 2x2 plano.001
+    100882: Armature.001
+    100884: Bone 1
+    100886: Bone.001 1
+    100888: Bone.001_end 1
+    100890: Bone.002 1
+    100892: Bone.002_end 1
+    100894: Bone_end 1
+    100896: Cube
+    100898: Piso.003
+    100900: Piso.004
     400000: //RootNode
     400002: 2x2 a
     400004: 2x2 a.001
@@ -789,8 +847,71 @@ ModelImporter:
     400780: 2x2 b.342
     400782: 2x2 b.343
     400784: 2x2 b.344
+    400786: 2x2 b.351
+    400788: 2x2 b.352
+    400790: 2x2 b.353
+    400792: 2x2 b.354
+    400794: 2x2 b.361
+    400796: 2x2 b.362
+    400798: 2x2 b.363
+    400800: 2x2 b.364
+    400802: 2x2 b.368
+    400804: Subpuerta 1 derecha
+    400806: Subpuerta 1 izquierda
+    400808: Subpuerta 2 derecha
+    400810: Subpuerta 2 izquierda
+    400812: Subpuerta 3 derecha
+    400814: Subpuerta 3 izquierda
+    400816: Subpuerta 4 derecha
+    400818: Subpuerta 4 izquierda
+    400820: Subpuerta 5 derecha
+    400822: Subpuerta 5 izquierda
+    400824: cubo1
+    400826: Armature
+    400828: Bone
+    400830: Bone.001
+    400832: Bone.001_end
+    400834: Bone.002
+    400836: Bone.002_end
+    400838: Bone.003
+    400840: Bone.003_end
+    400842: Bone.004
+    400844: Bone.004_end
+    400846: Bone.005
+    400848: Bone.005_end
+    400850: Bone.006
+    400852: Bone.006_end
+    400854: Bone.007
+    400856: Bone.007_end
+    400858: Bone.008
+    400860: Bone.008_end
+    400862: Bone.009
+    400864: Bone.009_end
+    400866: Bone_end
+    400868: Paredes invisibles
+    400870: 2x2 a.058
+    400872: 2x2 b.000
+    400874: 2x2 b.370
+    400876: 2x2 b.371
+    400878: 2x2 b.373
+    400880: 2x2 plano.001
+    400882: Armature.001
+    400884: Bone 1
+    400886: Bone.001 1
+    400888: Bone.001_end 1
+    400890: Bone.002 1
+    400892: Bone.002_end 1
+    400894: Bone_end 1
+    400896: Cube
+    400898: Piso.003
+    400900: Piso.004
     2100000: Material.002
     2100002: Material.003
+    2100004: invisible
+    2100006: No Name
+    2100008: Puerta Secreta
+    2100010: Subpuertas
+    2100012: Puerta Objetivo
     2300000: 2x2 a
     2300002: 2x2 a.001
     2300004: 2x2 a.002
@@ -1183,6 +1304,33 @@ ModelImporter:
     2300778: 2x2 b.342
     2300780: 2x2 b.343
     2300782: 2x2 b.344
+    2300784: 2x2 b.351
+    2300786: 2x2 b.352
+    2300788: 2x2 b.353
+    2300790: 2x2 b.354
+    2300792: 2x2 b.361
+    2300794: 2x2 b.362
+    2300796: 2x2 b.363
+    2300798: 2x2 b.364
+    2300800: 2x2 b.368
+    2300802: Subpuerta 1 derecha
+    2300804: Subpuerta 1 izquierda
+    2300806: Subpuerta 2 derecha
+    2300808: Subpuerta 2 izquierda
+    2300810: Subpuerta 3 derecha
+    2300812: Subpuerta 3 izquierda
+    2300814: Subpuerta 4 derecha
+    2300816: Subpuerta 4 izquierda
+    2300818: Subpuerta 5 derecha
+    2300820: Subpuerta 5 izquierda
+    2300822: cubo1
+    2300824: Paredes invisibles
+    2300826: 2x2 a.058
+    2300828: 2x2 b.000
+    2300830: 2x2 plano.001
+    2300832: Cube
+    2300834: Piso.003
+    2300836: Piso.004
     3300000: 2x2 a
     3300002: 2x2 a.001
     3300004: 2x2 a.002
@@ -1575,6 +1723,33 @@ ModelImporter:
     3300778: 2x2 b.342
     3300780: 2x2 b.343
     3300782: 2x2 b.344
+    3300784: 2x2 b.351
+    3300786: 2x2 b.352
+    3300788: 2x2 b.353
+    3300790: 2x2 b.354
+    3300792: 2x2 b.361
+    3300794: 2x2 b.362
+    3300796: 2x2 b.363
+    3300798: 2x2 b.364
+    3300800: 2x2 b.368
+    3300802: Subpuerta 1 derecha
+    3300804: Subpuerta 1 izquierda
+    3300806: Subpuerta 2 derecha
+    3300808: Subpuerta 2 izquierda
+    3300810: Subpuerta 3 derecha
+    3300812: Subpuerta 3 izquierda
+    3300814: Subpuerta 4 derecha
+    3300816: Subpuerta 4 izquierda
+    3300818: Subpuerta 5 derecha
+    3300820: Subpuerta 5 izquierda
+    3300822: cubo1
+    3300824: Paredes invisibles
+    3300826: 2x2 a.058
+    3300828: 2x2 b.000
+    3300830: 2x2 plano.001
+    3300832: Cube
+    3300834: Piso.003
+    3300836: Piso.004
     4300000: 2x2 b.159
     4300002: 2x2 b.158
     4300004: 2x2 b.157
@@ -1967,6 +2142,36 @@ ModelImporter:
     4300778: 2x2 a.018
     4300780: 2x2 b.160
     4300782: 12x12 a
+    4300784: Subpuerta 5 izquierda
+    4300786: Subpuerta 5 derecha
+    4300788: Subpuerta 4 derecha
+    4300790: Subpuerta 4 izquierda
+    4300792: Subpuerta 3 izquierda
+    4300794: Subpuerta 3 derecha
+    4300796: Subpuerta 2 derecha
+    4300798: Subpuerta 2 izquierda
+    4300800: Subpuerta 1 izquierda
+    4300802: Subpuerta 1 derecha
+    4300804: 2x2 b.368
+    4300806: 2x2 b.364
+    4300808: 2x2 b.363
+    4300810: 2x2 b.362
+    4300812: 2x2 b.361
+    4300814: 2x2 b.354
+    4300816: 2x2 b.353
+    4300818: 2x2 b.352
+    4300820: 2x2 b.351
+    4300822: cubo1
+    4300824: Paredes invisibles
+    4300826: Piso.004
+    4300828: 2x2 b.000
+    4300830: 2x2 b.373
+    4300832: 2x2 b.371
+    4300834: 2x2 b.370
+    4300836: 2x2 a.058
+    4300838: Piso.003
+    4300840: 2x2 plano.001
+    4300842: Cube
     6400000: 2x2 a
     6400002: 2x2 a.001
     6400004: 2x2 a.002
@@ -2359,8 +2564,67 @@ ModelImporter:
     6400778: 2x2 b.342
     6400780: 2x2 b.343
     6400782: 2x2 b.344
+    6400784: 2x2 b.351
+    6400786: 2x2 b.352
+    6400788: 2x2 b.353
+    6400790: 2x2 b.354
+    6400792: 2x2 b.361
+    6400794: 2x2 b.362
+    6400796: 2x2 b.363
+    6400798: 2x2 b.364
+    6400800: 2x2 b.368
+    6400802: Subpuerta 1 derecha
+    6400804: Subpuerta 1 izquierda
+    6400806: Subpuerta 2 derecha
+    6400808: Subpuerta 2 izquierda
+    6400810: Subpuerta 3 derecha
+    6400812: Subpuerta 3 izquierda
+    6400814: Subpuerta 4 derecha
+    6400816: Subpuerta 4 izquierda
+    6400818: Subpuerta 5 derecha
+    6400820: Subpuerta 5 izquierda
+    6400822: cubo1
+    6400824: Paredes invisibles
+    6400826: 2x2 a.058
+    6400828: 2x2 b.000
+    6400830: 2x2 plano.001
+    6400832: Cube
+    6400834: Piso.003
+    6400836: Piso.004
     7400000: Pared Secreta 1
+    7400002: Subpuerta Izquierda
+    7400004: Subpuerta Derecha
+    7400006: Puerta Objetivo
+    7400008: Subpuerta 5 Izquierda
+    7400010: Subpuerta 5 Derecha
+    7400012: Subpuerta 4 Derecha
+    7400014: Subpuerta 4 Izquierda
+    7400016: Subpuerta 3 Izquierda
+    7400018: Subpuerta 3 Derecha
+    7400020: Subpuerta  2 Derecha
+    7400022: Subpuerta 2 Izquierda
+    7400024: Subpuerta  1 Izquierda
+    7400026: Subpuerta 1 Derecha
+    7400028: Subpuertas
+    7400030: Levantar Techo
+    7400032: Alternar seccion retorno
+    7400034: Cerrar zona de trampa
+    7400036: Abrir trampa
     9500000: //RootNode
+    11100000: //RootNode
+    13700000: cubo1
+    13700002: Subpuerta 1 derecha
+    13700004: Subpuerta 2 derecha
+    13700006: Subpuerta 2 izquierda
+    13700008: Subpuerta 3 derecha
+    13700010: Subpuerta 3 izquierda
+    13700012: Subpuerta 4 derecha
+    13700014: Subpuerta 4 izquierda
+    13700016: Subpuerta 5 derecha
+    13700018: Subpuerta 5 izquierda
+    13700020: 2x2 b.370
+    13700022: 2x2 b.371
+    13700024: 2x2 b.373
   externalObjects: {}
   materials:
     importMaterials: 1
