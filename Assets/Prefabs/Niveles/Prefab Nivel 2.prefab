@@ -7870,7 +7870,7 @@ MonoBehaviour:
   - {fileID: 7400010, guid: 408174eacf90c1c4587ef8b676b9b632, type: 3}
   - {fileID: 7400008, guid: 408174eacf90c1c4587ef8b676b9b632, type: 3}
   - {fileID: 7400000, guid: 408174eacf90c1c4587ef8b676b9b632, type: 3}
-  - {fileID: 7400020, guid: 408174eacf90c1c4587ef8b676b9b632, type: 3}
+  - {fileID: 0}
 --- !u!114 &114972851061773152
 MonoBehaviour:
   m_ObjectHideFlags: 1
