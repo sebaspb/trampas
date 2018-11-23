@@ -23,6 +23,7 @@ ModelImporter:
     100034: Plataforma piso 1
     100036: Plataforma piso 2
     100038: Piso.002
+    100040: Pared izquierda.002
     400000: Cube
     400002: Cube.001
     400004: Cube.003
@@ -43,6 +44,7 @@ ModelImporter:
     400034: Plataforma piso 1
     400036: Plataforma piso 2
     400038: Piso.002
+    400040: Pared izquierda.002
     2100000: Material
     2100002: Material.007
     2100004: Material.005
@@ -69,6 +71,7 @@ ModelImporter:
     2300034: Plataforma piso 2
     2300036: //RootNode
     2300038: Piso.002
+    2300040: Pared izquierda.002
     3300000: Cube
     3300002: Cube.001
     3300004: Cube.003
@@ -89,6 +92,7 @@ ModelImporter:
     3300034: Plataforma piso 2
     3300036: //RootNode
     3300038: Piso.002
+    3300040: Pared izquierda.002
     4300000: Plataforma piso 1
     4300002: plano medio 1
     4300004: plano alto 1
@@ -108,6 +112,7 @@ ModelImporter:
     4300032: Cube.003
     4300034: Cube
     4300036: Piso.002
+    4300038: Pared izquierda.002
     6400000: Cube
     6400002: Cube.001
     6400004: Cube.003
@@ -128,6 +133,7 @@ ModelImporter:
     6400034: Plataforma piso 2
     6400036: //RootNode
     6400038: Piso.002
+    6400040: Pared izquierda.002
     7400000: Plataforma piso 2
     7400002: Plataforma media 1
     7400004: Plataforma alta 1
@@ -138,6 +144,7 @@ ModelImporter:
     7400014: Pared
     7400016: Plataforma alta 2
     7400018: Martillo
+    7400020: Pared Final
     9500000: //RootNode
     2186277476908879412: ImportLogs
   externalObjects: {}
@@ -397,6 +404,34 @@ ModelImporter:
       takeName: Plataforma alta 2
       firstFrame: 0
       lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Pared Final
+      takeName: Pared Final
+      firstFrame: 0
+      lastFrame: 14
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
