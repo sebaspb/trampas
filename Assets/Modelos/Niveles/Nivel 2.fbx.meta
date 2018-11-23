@@ -24,6 +24,7 @@ ModelImporter:
     100036: Plataforma piso 2
     100038: Piso.002
     100040: Pared izquierda.002
+    100042: Pared trasera.001
     400000: Cube
     400002: Cube.001
     400004: Cube.003
@@ -45,6 +46,7 @@ ModelImporter:
     400036: Plataforma piso 2
     400038: Piso.002
     400040: Pared izquierda.002
+    400042: Pared trasera.001
     2100000: Material
     2100002: Material.007
     2100004: Material.005
@@ -72,6 +74,7 @@ ModelImporter:
     2300036: //RootNode
     2300038: Piso.002
     2300040: Pared izquierda.002
+    2300042: Pared trasera.001
     3300000: Cube
     3300002: Cube.001
     3300004: Cube.003
@@ -93,6 +96,7 @@ ModelImporter:
     3300036: //RootNode
     3300038: Piso.002
     3300040: Pared izquierda.002
+    3300042: Pared trasera.001
     4300000: Plataforma piso 1
     4300002: plano medio 1
     4300004: plano alto 1
@@ -113,6 +117,7 @@ ModelImporter:
     4300034: Cube
     4300036: Piso.002
     4300038: Pared izquierda.002
+    4300040: Pared trasera.001
     6400000: Cube
     6400002: Cube.001
     6400004: Cube.003
@@ -134,6 +139,7 @@ ModelImporter:
     6400036: //RootNode
     6400038: Piso.002
     6400040: Pared izquierda.002
+    6400042: Pared trasera.001
     7400000: Plataforma piso 2
     7400002: Plataforma media 1
     7400004: Plataforma alta 1
