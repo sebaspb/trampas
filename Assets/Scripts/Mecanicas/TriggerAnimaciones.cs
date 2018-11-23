@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class TriggerAnimaciones : MonoBehaviour 
 {
 
@@ -22,6 +23,7 @@ public class TriggerAnimaciones : MonoBehaviour
 
     void Start ()
 	{
+        
 
         for (int i = 0; i < ArrayAnimaciones.Length; i++)
         {
