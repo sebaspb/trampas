@@ -10,6 +10,8 @@ ModelImporter:
     100008: Pared trasera
     100010: Piso
     100012: Piso.001
+    100014: Puerta Salida
+    100016: Techo
     400000: //RootNode
     400002: Pared derecha
     400004: Pared frontal
@@ -17,6 +19,8 @@ ModelImporter:
     400008: Pared trasera
     400010: Piso
     400012: Piso.001
+    400014: Puerta Salida
+    400016: Techo
     2100000: Material.007
     2100002: Material.005
     2100004: Material.006
@@ -26,24 +30,34 @@ ModelImporter:
     2300006: Pared trasera
     2300008: Piso
     2300010: Piso.001
+    2300012: Puerta Salida
+    2300014: Techo
     3300000: Pared derecha
     3300002: Pared frontal
     3300004: Pared izquierda
     3300006: Pared trasera
     3300008: Piso
     3300010: Piso.001
+    3300012: Puerta Salida
+    3300014: Techo
     4300000: Pared frontal
     4300002: Pared derecha
     4300004: Pared izquierda
     4300006: Piso
     4300008: Pared trasera
     4300010: Piso.001
+    4300012: Puerta Salida
+    4300014: Techo
     6400000: Pared derecha
     6400002: Pared frontal
     6400004: Pared izquierda
     6400006: Pared trasera
     6400008: Piso
     6400010: Piso.001
+    6400012: Puerta Salida
+    6400014: Techo
+    7400000: Puerta Salida
+    9500000: //RootNode
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -64,7 +78,7 @@ ModelImporter:
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
     importConstraints: 0
-    animationCompression: 1
+    animationCompression: 3
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
@@ -96,7 +110,7 @@ ModelImporter:
     secondaryUVPackMargin: 4
     useFileScale: 1
     previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -120,7 +134,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  animationType: 2
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
