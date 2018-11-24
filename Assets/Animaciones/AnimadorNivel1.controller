@@ -10,7 +10,7 @@ AnimatorController:
   m_AnimatorParameters: []
   m_AnimatorLayers:
   - serializedVersion: 5
-    m_Name: Base Layer
+    m_Name: Puerta Salida
     m_StateMachine: {fileID: 1107917663418687654}
     m_Mask: {fileID: 0}
     m_Motions: []
@@ -77,14 +77,14 @@ AnimatorStateMachine:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Base Layer
+  m_Name: Puerta Salida
   m_ChildStates:
   - serializedVersion: 1
     m_State: {fileID: 1102586872568493412}
-    m_Position: {x: 900.8699, y: 731.08704, z: 0}
+    m_Position: {x: 48, y: 372, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102156772999107804}
-    m_Position: {x: 1107.5513, y: 441.58606, z: 0}
+    m_Position: {x: 444, y: 264, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []

@@ -706,7 +706,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4638503567490574}
-  - component: {fileID: 95198232194090680}
   m_Layer: 0
   m_Name: Prefab Nivel 2
   m_TagString: Untagged
@@ -4613,24 +4612,6 @@ MeshCollider:
   m_CookingOptions: 14
   m_SkinWidth: 0.01
   m_Mesh: {fileID: 4300002, guid: 9163dc8232c80ee46bb294dc14ec7735, type: 3}
---- !u!95 &95198232194090680
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1593422953306398}
-  m_Enabled: 1
-  m_Avatar: {fileID: 9000000, guid: 408174eacf90c1c4587ef8b676b9b632, type: 3}
-  m_Controller: {fileID: 9100000, guid: 5eaed98d2edada04584853436c53fc76, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!95 &95978298417771898
 Animator:
   serializedVersion: 3
@@ -4640,7 +4621,7 @@ Animator:
   m_GameObject: {fileID: 1119983370541974}
   m_Enabled: 1
   m_Avatar: {fileID: 9000000, guid: 408174eacf90c1c4587ef8b676b9b632, type: 3}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 5eaed98d2edada04584853436c53fc76, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -5412,7 +5393,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   FBX: {fileID: 1698708807787708}
   Trigger: {fileID: 1605169522792304}
-  nivel: {fileID: 1593422953306398}
+  nivel: {fileID: 1119983370541974}
   AnimacionAsignada: {fileID: 7400012, guid: 408174eacf90c1c4587ef8b676b9b632, type: 3}
   SePuedeRepetir: 0
   ArrayAnimaciones:
@@ -5438,7 +5419,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   FBX: {fileID: 1141592408452598}
   Trigger: {fileID: 1874206842587288}
-  nivel: {fileID: 1593422953306398}
+  nivel: {fileID: 1119983370541974}
   AnimacionAsignada: {fileID: 7400006, guid: 408174eacf90c1c4587ef8b676b9b632, type: 3}
   SePuedeRepetir: 0
   ArrayAnimaciones:
@@ -5488,7 +5469,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   FBX: {fileID: 1462888274639402}
   Trigger: {fileID: 1859376514920918}
-  nivel: {fileID: 1593422953306398}
+  nivel: {fileID: 1119983370541974}
   AnimacionAsignada: {fileID: 7400004, guid: 408174eacf90c1c4587ef8b676b9b632, type: 3}
   SePuedeRepetir: 0
   ArrayAnimaciones:
@@ -5817,7 +5798,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   FBX: {fileID: 1853524027933436}
   Trigger: {fileID: 1813823729348292}
-  nivel: {fileID: 1593422953306398}
+  nivel: {fileID: 1119983370541974}
   AnimacionAsignada: {fileID: 7400008, guid: 408174eacf90c1c4587ef8b676b9b632, type: 3}
   SePuedeRepetir: 0
   ArrayAnimaciones:
@@ -6716,7 +6697,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   FBX: {fileID: 1188979459640864}
   Trigger: {fileID: 1974302312770748}
-  nivel: {fileID: 1593422953306398}
+  nivel: {fileID: 1119983370541974}
   AnimacionAsignada: {fileID: 7400010, guid: 408174eacf90c1c4587ef8b676b9b632, type: 3}
   SePuedeRepetir: 0
   ArrayAnimaciones:
@@ -6740,7 +6721,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ed09d85c737ef3f4dab16bb1b5f4ba39, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nivel: {fileID: 1593422953306398}
+  nivel: {fileID: 1119983370541974}
   ArrayAnimaciones:
   - {fileID: 7400014, guid: 408174eacf90c1c4587ef8b676b9b632, type: 3}
   - {fileID: 7400004, guid: 408174eacf90c1c4587ef8b676b9b632, type: 3}
@@ -6780,7 +6761,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   FBX: {fileID: 1895932213690338}
   Trigger: {fileID: 1250714883594096}
-  nivel: {fileID: 1593422953306398}
+  nivel: {fileID: 1119983370541974}
   AnimacionAsignada: {fileID: 7400002, guid: 408174eacf90c1c4587ef8b676b9b632, type: 3}
   SePuedeRepetir: 0
   ArrayAnimaciones:
@@ -7085,7 +7066,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   FBX: {fileID: 1682894785805590}
   Trigger: {fileID: 1203896688624290}
-  nivel: {fileID: 1593422953306398}
+  nivel: {fileID: 1119983370541974}
   AnimacionAsignada: {fileID: 7400016, guid: 408174eacf90c1c4587ef8b676b9b632, type: 3}
   SePuedeRepetir: 0
   ArrayAnimaciones:
@@ -7111,7 +7092,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   FBX: {fileID: 1376831552575102}
   Trigger: {fileID: 1324480133787086}
-  nivel: {fileID: 1593422953306398}
+  nivel: {fileID: 1119983370541974}
   AnimacionAsignada: {fileID: 7400000, guid: 408174eacf90c1c4587ef8b676b9b632, type: 3}
   SePuedeRepetir: 0
   ArrayAnimaciones:
@@ -7462,7 +7443,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ed09d85c737ef3f4dab16bb1b5f4ba39, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nivel: {fileID: 1593422953306398}
+  nivel: {fileID: 1119983370541974}
   ArrayAnimaciones:
   - {fileID: 7400014, guid: 408174eacf90c1c4587ef8b676b9b632, type: 3}
   AnimacionAsignada: {fileID: 7400014, guid: 408174eacf90c1c4587ef8b676b9b632, type: 3}
@@ -8353,7 +8334,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   FBX: {fileID: 1211611662714786}
   Trigger: {fileID: 1878840589787134}
-  nivel: {fileID: 1593422953306398}
+  nivel: {fileID: 1119983370541974}
   AnimacionAsignada: {fileID: 7400020, guid: 408174eacf90c1c4587ef8b676b9b632, type: 3}
   SePuedeRepetir: 0
   ArrayAnimaciones:

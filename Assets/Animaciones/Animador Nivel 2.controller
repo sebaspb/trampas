@@ -10,7 +10,7 @@ AnimatorController:
   m_AnimatorParameters: []
   m_AnimatorLayers:
   - serializedVersion: 5
-    m_Name: Base Layer
+    m_Name: Pared
     m_StateMachine: {fileID: 1107034112638916738}
     m_Mask: {fileID: 0}
     m_Motions: []
@@ -22,7 +22,7 @@ AnimatorController:
     m_SyncedLayerAffectsTiming: 0
     m_Controller: {fileID: 9100000}
   - serializedVersion: 5
-    m_Name: New Layer
+    m_Name: Plataforma alta 1
     m_StateMachine: {fileID: 1107066326342496588}
     m_Mask: {fileID: 0}
     m_Motions: []
@@ -34,7 +34,7 @@ AnimatorController:
     m_SyncedLayerAffectsTiming: 0
     m_Controller: {fileID: 9100000}
   - serializedVersion: 5
-    m_Name: New Layer 0
+    m_Name: Plataforma alta 2
     m_StateMachine: {fileID: 1107548646584145824}
     m_Mask: {fileID: 0}
     m_Motions: []
@@ -46,7 +46,7 @@ AnimatorController:
     m_SyncedLayerAffectsTiming: 0
     m_Controller: {fileID: 9100000}
   - serializedVersion: 5
-    m_Name: New Layer 1
+    m_Name: Plataforma baja 1
     m_StateMachine: {fileID: 1107906369776802414}
     m_Mask: {fileID: 0}
     m_Motions: []
@@ -58,7 +58,7 @@ AnimatorController:
     m_SyncedLayerAffectsTiming: 0
     m_Controller: {fileID: 9100000}
   - serializedVersion: 5
-    m_Name: New Layer 2
+    m_Name: plataforma baja 2
     m_StateMachine: {fileID: 1107179558671821602}
     m_Mask: {fileID: 0}
     m_Motions: []
@@ -70,7 +70,7 @@ AnimatorController:
     m_SyncedLayerAffectsTiming: 0
     m_Controller: {fileID: 9100000}
   - serializedVersion: 5
-    m_Name: New Layer 3
+    m_Name: Plataforma media 1
     m_StateMachine: {fileID: 1107452987633409526}
     m_Mask: {fileID: 0}
     m_Motions: []
@@ -82,7 +82,7 @@ AnimatorController:
     m_SyncedLayerAffectsTiming: 0
     m_Controller: {fileID: 9100000}
   - serializedVersion: 5
-    m_Name: New Layer 4
+    m_Name: Plataforma media 2
     m_StateMachine: {fileID: 1107323251701063742}
     m_Mask: {fileID: 0}
     m_Motions: []
@@ -94,7 +94,7 @@ AnimatorController:
     m_SyncedLayerAffectsTiming: 0
     m_Controller: {fileID: 9100000}
   - serializedVersion: 5
-    m_Name: New Layer 5
+    m_Name: Plataforma piso 1
     m_StateMachine: {fileID: 1107167005290821744}
     m_Mask: {fileID: 0}
     m_Motions: []
@@ -106,7 +106,7 @@ AnimatorController:
     m_SyncedLayerAffectsTiming: 0
     m_Controller: {fileID: 9100000}
   - serializedVersion: 5
-    m_Name: New Layer 6
+    m_Name: Plataforma piso 2
     m_StateMachine: {fileID: 1107979250656204892}
     m_Mask: {fileID: 0}
     m_Motions: []
@@ -118,7 +118,7 @@ AnimatorController:
     m_SyncedLayerAffectsTiming: 0
     m_Controller: {fileID: 9100000}
   - serializedVersion: 5
-    m_Name: New Layer 7
+    m_Name: Puerta final
     m_StateMachine: {fileID: 1107260679714940154}
     m_Mask: {fileID: 0}
     m_Motions: []
@@ -130,7 +130,7 @@ AnimatorController:
     m_SyncedLayerAffectsTiming: 0
     m_Controller: {fileID: 9100000}
   - serializedVersion: 5
-    m_Name: New Layer 8
+    m_Name: Cerrar puerta inicio
     m_StateMachine: {fileID: 1107494836002261936}
     m_Mask: {fileID: 0}
     m_Motions: []
@@ -797,7 +797,7 @@ AnimatorStateMachine:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Base Layer
+  m_Name: Pared
   m_ChildStates:
   - serializedVersion: 1
     m_State: {fileID: 1102277121876536076}
@@ -821,7 +821,7 @@ AnimatorStateMachine:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: New Layer
+  m_Name: Plataforma alta 1
   m_ChildStates:
   - serializedVersion: 1
     m_State: {fileID: 1102011467143265738}
@@ -845,7 +845,7 @@ AnimatorStateMachine:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: New Layer 5
+  m_Name: Plataforma piso 1
   m_ChildStates:
   - serializedVersion: 1
     m_State: {fileID: 1102408161160586726}
@@ -869,7 +869,7 @@ AnimatorStateMachine:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: New Layer 2
+  m_Name: plataforma baja 2
   m_ChildStates:
   - serializedVersion: 1
     m_State: {fileID: 1102152523718820220}
@@ -893,7 +893,7 @@ AnimatorStateMachine:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: New Layer 7
+  m_Name: Puerta final
   m_ChildStates:
   - serializedVersion: 1
     m_State: {fileID: 1102476484419845594}
@@ -917,7 +917,7 @@ AnimatorStateMachine:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: New Layer 4
+  m_Name: Plataforma media 2
   m_ChildStates:
   - serializedVersion: 1
     m_State: {fileID: 1102586100631171674}
@@ -941,7 +941,7 @@ AnimatorStateMachine:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: New Layer 3
+  m_Name: Plataforma media 1
   m_ChildStates:
   - serializedVersion: 1
     m_State: {fileID: 1102826808814275396}
@@ -965,7 +965,7 @@ AnimatorStateMachine:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: New Layer 8
+  m_Name: Cerrar puerta inicio
   m_ChildStates:
   - serializedVersion: 1
     m_State: {fileID: 1102536568611083452}
@@ -989,7 +989,7 @@ AnimatorStateMachine:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: New Layer 0
+  m_Name: Plataforma alta 2
   m_ChildStates:
   - serializedVersion: 1
     m_State: {fileID: 1102676900834475820}
@@ -1031,7 +1031,7 @@ AnimatorStateMachine:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: New Layer 1
+  m_Name: Plataforma baja 1
   m_ChildStates:
   - serializedVersion: 1
     m_State: {fileID: 1102767618650700446}
@@ -1055,7 +1055,7 @@ AnimatorStateMachine:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: New Layer 6
+  m_Name: Plataforma piso 2
   m_ChildStates:
   - serializedVersion: 1
     m_State: {fileID: 1102712934865932366}
