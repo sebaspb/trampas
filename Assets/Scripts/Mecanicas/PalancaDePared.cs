@@ -32,6 +32,7 @@ public class PalancaDePared : MonoBehaviour {
 
     bool activada = false;
 
+       
 
     void Start () 
 	{
@@ -64,6 +65,11 @@ public class PalancaDePared : MonoBehaviour {
                 Debug.Log("Botón presionado");
                 AnimacionBoton.Play("Accionar Boton");
                 activada = true;
+               
+                ManagerNiverl3.Counter += 1;
+                Debug.Log(ManagerNiverl3.Counter);
+                
+                
 
                 if (AnimacionAsignada != null)
                 {
@@ -78,10 +84,11 @@ public class PalancaDePared : MonoBehaviour {
 
                 }
             }
+             
 
             else
             {
-
+               
                 Debug.Log("Botón en uso");
 
             }
