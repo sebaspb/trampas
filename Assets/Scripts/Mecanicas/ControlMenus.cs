@@ -5,6 +5,9 @@ using UnityEngine.SceneManagement;
 using ARFC;
 using UnityEngine.UI;
 
+
+
+
 public class ControlMenus : MonoBehaviour
 {
 
@@ -12,11 +15,14 @@ public class ControlMenus : MonoBehaviour
 
 	public Button Continuar;
 
-	
-	void Start ()
+
+    
+
+    void Start ()
 	{
 
-	}
+
+    }
 	
 	// Update is called once per frame
 	void Update () 
@@ -33,6 +39,8 @@ public class ControlMenus : MonoBehaviour
 
 	}
 
+   
+
 	public void ActivarCanvas(GameObject canvasActivado)
 	{
 		canvasActivado.SetActive(true);
@@ -48,11 +56,17 @@ public class ControlMenus : MonoBehaviour
 		if (Time.timeScale == 1.0f && Input.GetKeyDown(KeyCode.P))
         {
 			PausaMenu.SetActive(true);
-            Time.timeScale = 0.0f;
-			GameObject.FindWithTag("Player").GetComponent<FPController>().enabled = false;
-			
-            
-        }
+            //         Time.timeScale = 0.0f;
+
+
+
+            GameObject.FindWithTag("Player").GetComponent<FPController>().Constraints.Move = false;
+    
+
+
+
+
+    }
     
 	}
 
@@ -60,7 +74,7 @@ public class ControlMenus : MonoBehaviour
 	{
 
 		Time.timeScale = 1.0f;
-		GameObject.FindWithTag("Player").GetComponent<FPController>().enabled = true;
+		//GameObject.FindWithTag("Player").GetComponent<FPController>().enabled = true;
 
 	}
 

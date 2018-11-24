@@ -109,6 +109,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4239238003884630}
+  - component: {fileID: 95090445455129552}
   m_Layer: 0
   m_Name: Prefab Nivel 1
   m_TagString: Untagged
@@ -181,7 +182,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4758127237176158}
-  - component: {fileID: 95866706951355994}
   m_Layer: 0
   m_Name: Nivel 1
   m_TagString: Untagged
@@ -212,8 +212,8 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 4763042409057868}
   - {fileID: 4758127237176158}
+  - {fileID: 4763042409057868}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -287,7 +287,7 @@ Transform:
   - {fileID: 4945361217402470}
   - {fileID: 4256107939751586}
   m_Father: {fileID: 4239238003884630}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4763042409057868
 Transform:
@@ -300,7 +300,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1.8418, z: 1}
   m_Children: []
   m_Father: {fileID: 4239238003884630}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4923215166794560
 Transform:
@@ -780,13 +780,13 @@ MeshCollider:
   m_CookingOptions: 14
   m_SkinWidth: 0.01
   m_Mesh: {fileID: 4300000, guid: e595f6f9f9b632f4195e6b32abb656df, type: 3}
---- !u!95 &95866706951355994
+--- !u!95 &95090445455129552
 Animator:
   serializedVersion: 3
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1919116788642820}
+  m_GameObject: {fileID: 1756731775834276}
   m_Enabled: 1
   m_Avatar: {fileID: 9000000, guid: e595f6f9f9b632f4195e6b32abb656df, type: 3}
   m_Controller: {fileID: 9100000, guid: 04f48e40295eaab43aed302e8c5ca5ae, type: 2}
@@ -809,7 +809,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ed09d85c737ef3f4dab16bb1b5f4ba39, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nivel: {fileID: 1919116788642820}
+  nivel: {fileID: 1756731775834276}
   ArrayAnimaciones:
   - {fileID: 7400000, guid: e595f6f9f9b632f4195e6b32abb656df, type: 3}
   AnimacionAsignada: {fileID: 7400000, guid: e595f6f9f9b632f4195e6b32abb656df, type: 3}

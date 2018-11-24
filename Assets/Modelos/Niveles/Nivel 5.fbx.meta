@@ -52,6 +52,13 @@ ModelImporter:
     100092: 12x12 b.045
     100094: 12x12 b.046
     100096: 12x12 b.048
+    100098: Paredes inferiores
+    100100: Paredes superiores
+    100102: Piso A
+    100104: Piso B
+    100106: piso inferior
+    100108: Puerta secreta
+    100110: Techo
     400000: //RootNode
     400002: 12x12 b
     400004: 12x12 b.001
@@ -101,6 +108,13 @@ ModelImporter:
     400092: 12x12 b.045
     400094: 12x12 b.046
     400096: 12x12 b.048
+    400098: Paredes inferiores
+    400100: Paredes superiores
+    400102: Piso A
+    400104: Piso B
+    400106: piso inferior
+    400108: Puerta secreta
+    400110: Techo
     2100000: Material
     2100002: Puerta Secreta
     2100004: Material.001
@@ -154,6 +168,14 @@ ModelImporter:
     2300090: 12x12 b.045
     2300092: 12x12 b.046
     2300094: 12x12 b.048
+    2300096: Paredes inferiores
+    2300098: Paredes superiores
+    2300100: Piso A
+    2300102: Piso B
+    2300104: piso inferior
+    2300106: Puerta secreta
+    2300108: //RootNode
+    2300110: Techo
     3300000: 12x12 b
     3300002: 12x12 b.001
     3300004: 12x12 b.002
@@ -202,6 +224,14 @@ ModelImporter:
     3300090: 12x12 b.045
     3300092: 12x12 b.046
     3300094: 12x12 b.048
+    3300096: Paredes inferiores
+    3300098: Paredes superiores
+    3300100: Piso A
+    3300102: Piso B
+    3300104: piso inferior
+    3300106: Puerta secreta
+    3300108: //RootNode
+    3300110: Techo
     4300000: 12x12 b.046
     4300002: 12x12 b.045
     4300004: 12x12 b.044
@@ -250,6 +280,13 @@ ModelImporter:
     4300090: 12x12 b.001
     4300092: 12x12 b
     4300094: 12x12 b.048
+    4300096: Piso A
+    4300098: Paredes superiores
+    4300100: Piso B
+    4300102: Puerta secreta
+    4300104: piso inferior
+    4300106: Paredes inferiores
+    4300108: Techo
     6400000: 12x12 b
     6400002: 12x12 b.001
     6400004: 12x12 b.002
@@ -298,6 +335,14 @@ ModelImporter:
     6400090: 12x12 b.045
     6400092: 12x12 b.046
     6400094: 12x12 b.048
+    6400096: Paredes inferiores
+    6400098: Paredes superiores
+    6400100: Piso A
+    6400102: Piso B
+    6400104: piso inferior
+    6400106: Puerta secreta
+    6400108: //RootNode
+    6400110: Techo
   externalObjects: {}
   materials:
     importMaterials: 1

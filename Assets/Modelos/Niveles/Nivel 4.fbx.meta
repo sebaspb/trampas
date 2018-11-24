@@ -52,6 +52,14 @@ ModelImporter:
     100092: Cylinder.009
     100094: Cylinder.010
     100096: Cylinder.011
+    100098: Martillos
+    100100: Paredes
+    100102: Paredes invisibles
+    100104: Piso
+    100106: piso secreto
+    100108: Puerta Dummy
+    100110: Techo
+    100112: trampilla piso
     400000: 12x12 a.000
     400002: 12x12 a.001
     400004: 12x12 a.002
@@ -101,6 +109,14 @@ ModelImporter:
     400092: Cylinder.009
     400094: Cylinder.010
     400096: Cylinder.011
+    400098: Martillos
+    400100: Paredes
+    400102: Paredes invisibles
+    400104: Piso
+    400106: piso secreto
+    400108: Puerta Dummy
+    400110: Techo
+    400112: trampilla piso
     2100000: Material.001
     2100002: Trampa
     2100004: invisible
@@ -155,6 +171,14 @@ ModelImporter:
     2300090: Cylinder.009
     2300092: Cylinder.010
     2300094: Cylinder.011
+    2300096: Martillos
+    2300098: Paredes
+    2300100: Paredes invisibles
+    2300102: Piso
+    2300104: piso secreto
+    2300106: Puerta Dummy
+    2300108: Techo
+    2300110: trampilla piso
     3300000: 12x12 a.000
     3300002: 12x12 a.001
     3300004: 12x12 a.002
@@ -203,6 +227,14 @@ ModelImporter:
     3300090: Cylinder.009
     3300092: Cylinder.010
     3300094: Cylinder.011
+    3300096: Martillos
+    3300098: Paredes
+    3300100: Paredes invisibles
+    3300102: Piso
+    3300104: piso secreto
+    3300106: Puerta Dummy
+    3300108: Techo
+    3300110: trampilla piso
     4300000: 12x12 a.022
     4300002: 12x12 a.021
     4300004: 12x12 a.020
@@ -251,6 +283,14 @@ ModelImporter:
     4300090: 4x4 a.000
     4300092: 4x4 a.001
     4300094: 12x12 a.023
+    4300096: Martillos
+    4300098: Techo
+    4300100: piso secreto
+    4300102: trampilla piso
+    4300104: Paredes invisibles
+    4300106: Puerta Dummy
+    4300108: Paredes
+    4300110: Piso
     6400000: 12x12 a.000
     6400002: 12x12 a.001
     6400004: 12x12 a.002
@@ -299,6 +339,14 @@ ModelImporter:
     6400090: Cylinder.009
     6400092: Cylinder.010
     6400094: Cylinder.011
+    6400096: Martillos
+    6400098: Paredes
+    6400100: Paredes invisibles
+    6400102: Piso
+    6400104: piso secreto
+    6400106: Puerta Dummy
+    6400108: Techo
+    6400110: trampilla piso
   externalObjects: {}
   materials:
     importMaterials: 1

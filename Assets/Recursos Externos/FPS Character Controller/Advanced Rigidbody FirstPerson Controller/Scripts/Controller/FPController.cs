@@ -81,27 +81,27 @@ namespace ARFC
 
             [SerializeField]
             protected bool jump = true;
-            public virtual bool Jump { get { return Control && jump; } protected set { jump = value; } }
+            public virtual bool Jump { get { return Control && jump; } set { jump = value; } }
 
             [SerializeField]
             protected bool jumpFromAir = false;
-            public virtual bool JumpFromAir { get { return Control && jumpFromAir; } protected set { jumpFromAir = value; } }
+            public virtual bool JumpFromAir { get { return Control && jumpFromAir; } set { jumpFromAir = value; } }
 
             [SerializeField]
             protected bool sprint = true;
-            public virtual bool Sprint { get { return Control && sprint; } protected set { sprint = value; } }
+            public virtual bool Sprint { get { return Control && sprint; } set { sprint = value; } }
 
             [SerializeField]
             protected bool crouch = true;
-            public virtual bool Crouch { get { return Control && crouch; } protected set { crouch = value; } }
+            public virtual bool Crouch { get { return Control && crouch; } set { crouch = value; } }
 
             [SerializeField]
             protected bool prone = true;
-            public virtual bool Prone { get { return Control && prone; } protected set { prone = value; } }
+            public virtual bool Prone { get { return Control && prone; } set { prone = value; } }
 
             [SerializeField]
             protected bool slide = true;
-            public virtual bool Slide { get { return Control && slide; } protected set { slide = value; } }
+            public virtual bool Slide { get { return Control && slide; } set { slide = value; } }
 
             [Space]
             [SerializeField]
@@ -110,11 +110,11 @@ namespace ARFC
 
             [SerializeField]
             protected bool lean = true;
-            public virtual bool Lean { get { return Control && lean; } protected set { lean = value; } }
+            public virtual bool Lean { get { return Control && lean; } set { lean = value; } }
 
             [SerializeField]
             protected bool headBob = true;
-            public virtual bool HeadBob { get { return Control && headBob; } protected set { headBob = value; } }
+            public virtual bool HeadBob { get { return Control && headBob; } set { headBob = value; } }
         }
 
         /// <summary>
